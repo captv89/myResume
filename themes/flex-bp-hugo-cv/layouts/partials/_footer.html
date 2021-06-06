@@ -1,0 +1,15 @@
+<div class="fabs">
+    {{ if .IsTranslated }}
+        {{ range $.Site.Home.AllTranslations }}
+            <a href="{{ .RelPermalink }}" class="btn">{{ .Language.LanguageName }}</a>
+        {{ end }}
+    {{ end }}
+    <button class="btn-toggle-theme btn" aria-label="Toggle theme"><i class="fas fa-adjust"></i></button>
+    <a href="https://captv89.github.io" class="btn" aria-label="Go Home"><i class="fas fa-home"></i></a> 
+    <a href="#" class="btn" aria-label="Go to top"><i class="fas fa-arrow-circle-up"></i></a>    
+</div>
+
+<footer>
+    &copy; {{ now.Format "2006" }} {{ range .Site.Author }}{{ . }}{{ end }}.
+    {{ i18n "themeby" }} <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>.
+</footer>

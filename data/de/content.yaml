@@ -1,0 +1,213 @@
+PersonalData:
+  Title: Persönliche Daten
+  Icon: fas fa-user
+  Suffix: "- CV"
+  Name: Vishnu
+  CurrentWorkplace: Produktinhaber & Subjektexperte
+  Contacts:
+    - Icon: fas fa-user
+      Name: name
+      Value: Vishnu R
+    - Icon: fas fa-map-marker-alt
+      Name: Adresse
+      Value: Thrissur, Kerala, India
+    # - Icon: fas fa-mobile-alt
+    #   Name: Phone
+    #   Value: +12 34567 89000
+    # - Icon: fas fa-envelope
+    #   Name: Email
+    #   Value: good.boy@example.org
+    - Icon: fas fa-globe
+      Name: Webseite
+      Value: https://captv89.github.io
+    # - Icon: far fa-calendar-alt
+    #   Name: Date of birth
+    #   Value: 01.01.1111
+
+BriefProfile:
+  Title: Kurzes Profil
+  Icon: fas fa-th-list
+  Sections:
+    - Name: Stärken
+      Items:
+        - Segeln & Navigation.
+        - Probleme lösen
+        - Rechenachten
+        - Teamspieler
+        - Gefahren
+    - Name: Kompetenzen
+      Items:
+        - EAM (ERP) Lösung Produktinhaber für die maritime Industrie
+        - KMU in Marine Business-Anwendungen
+        - Funktionelles und technisches Wissen in der Dynamik 365 Business Central
+        - Projektleiter zur Umsetzung der Änderung der Flotte
+        - DevoPs & Automatisierungskoordinator
+        - Datenanalyse- und Datenmigrationsberatung
+        - Kundenpräsentation.
+        - Produktlebenszyklusmanagement
+        - Technische Dokumentation
+    - Name: Zertifizierungen
+      Items:
+        - Zertifizierter ethischer Hacker (CEH)
+        - AWS IOT Vorausschauend Wartung
+        - IBM AI Stiftungen für das Geschäft
+        - Business Intelligence Analyst
+
+Experience:
+  Title: Erfahrung
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: Produktinhaber
+      Employer: Alpha Ori Technologies
+      Website: https://alphaori.sg
+      StartDate: 03/2021
+      EndDate: Heute
+      Details:
+        - EAM (ERP) Lösung Produktinhaber für die maritime Industrie
+        - KMU in Marine Business-Anwendungen
+        - Funktionelles und technisches Wissen in der Dynamik 365 Business Central
+        - Produktlebenszyklusmanagement
+      Skills: ["Produktmanagement", "Konflikte auflösen", "Knowledge Broker", "Entwickler", "Analyst", "Geschichtenerzähler"]
+    - Name: businessAnalyst + SME
+      Employer: Alpha Ori Technologies
+      Website: https://alphaori.sg
+      StartDate: 03/2020
+      EndDate: 03/2021
+      Details:
+        - Projektmanager zur Umsetzung der Änderung der Flotte
+        - DevoPs & Automation Consultant
+        - Datenanalyse- und Datenmigrationsberatung
+        - Kundenpräsentation.
+        - Technische Dokumentation
+      Skills: ["Communication", "Anforderungsanforderungen", "Delegate-Ziele", "Stakeholder-Management", "Time Management", "Dokumentation"]
+      Name: Navigation Officer
+      Employer: Handelsmarine
+      Website: https://en.wikipedia.org/wiki/Merchant_navy
+      StartDate: 01/2010
+      EndDate: 01/2020
+      Details:
+        - Berufsbescheinigungen in halten
+        - 1. Feuerbekämpfung
+        - 2. Nothilfe für Erste Hilfe und medizinische Versorgung
+        - 3. Persönliche Survival-Techniken
+        - 4. Watch Halten und Navigation
+        - 5. GMDSS-Funkkommunikation
+        - segelte auf Schüttgutträger und Containerschiffen
+        - starkes Wissen über Schiffewartung und -management
+        - klares Verständnis des Schiffsbetriebs
+      Skills: ["Navigation", "Maneuvering", "Cargo Management", "Schiffsmanagement", "Seamanship"]
+
+AcademicEducation:
+  Title: Akademische Ausbildung
+  Icon: fas fa-university
+  Sections:
+    - Name: Nautik
+      Organisation: AMET University
+      Website: https://www.example.com
+      StartDate: 2007
+      EndDate: 2010
+      Qualification: B.Sc Nautical Science
+      Score: CGPA 7.96 
+
+ProfessionalTraining:
+  Title: Professionelles Training
+  Icon: fas fa-road
+  Sections:
+    - Name: Post-Seezertifizierungen
+      Organisation: Indian Maritime University
+      Website: https://www.imu.edu.in/
+      StartDate: 2015
+      EndDate: 2015
+      Qualification: Hauptkollegen FG
+
+SchoolEducation:
+  Title: Schulische Ausbildung
+  Icon: fas fa-school
+  Sections:
+    - Name: Höheren Schule (12th)
+      Organisation: Kendriya Vidyalaya
+      Website: https://kvsangathan.nic.in/
+      StartDate: 2006
+      EndDate: 2007
+      Qualification: Mit Physik, Chemie, Mathematik und Informatik
+      Score: Gesamt 84%
+
+# FurtherEducation:
+#   Title: Further Education
+#   Icon: fas fa-chalkboard-teacher
+#   Sections:
+#     - Name: PersonalTrainer
+#       Organisation: ACME University
+#       Website: https://www.example.com
+#       StartDate: 01/2010
+#       EndDate: 05/2014
+#       Qualification: PersonalTrainer A-License
+
+Diplomas:
+  Title: Zertifizierungen
+  Icon: fas fa-certificate
+  Items:
+    - 2020 - Coursera - Git & Github
+    - 2020 - AWS - AWS IoT, Predictive Maintenance
+    - 2020 - IBM - The AI Ladder, A Framework for Deploying AI in your Enterprise
+    - 2020 - IBM - Introduction to Data Science
+    - 2020 - IBM - Introduction to AI
+    - 2020 - IBM - AI Foundations for Business
+    - 2021 - Udemy - Business Intelligence Analyst
+
+Languages:
+  Title: Sprachen
+  Icon: fas fa-language
+  Items:
+    - Malayalam (Native)
+    - English (Volle berufliche Fähigkeit)
+    - Hindi (Volle berufliche Fähigkeit)
+    - Tamil (Volle berufliche Fähigkeit)
+
+# Organizations:
+#   Title: Organizations
+#   Icon: fas fa-users
+#   Items:
+#     - Dog school A
+#     - Dog school B
+
+Skills:
+  Title: Kompetenzen
+  Icon: fas fa-sliders-h
+  Items:
+    - Probe & Erfahrene Web dev, Networking & Security, Data Science, IOT, ML & AI
+    - Datenbank- MSSQL, MySQL, SQLite, PostgreSQL & MONGODB
+    - Sprachen - Python, JS, Go, Dart & PHP
+    - Scripting-Bash, PowerShell
+    - Framework-Flattern, Vujs, lolly, Scrappy, Gin, Hugo
+    - Devops- Jenkins, Azure Devops, Travisci, Gocd
+    - Services- IBM Watson, Aws, Azure & Dynamics 365
+    - ML- Azure ML Studio, Jupiter-Notebook, Tensorflow, Keras
+    - OS- Centos, Raspbian, Mac, Ubuntu, Windows, Papagei & Kali
+
+Interests:
+  Title: Interessen
+  Icon: fas fa-chess
+  Items:
+    - Fotografie
+    - Fußball
+    - Filme
+    - Feinschmecker
+    - Musik
+
+Contacts2:
+  Title: Kontakt
+  Icon: fas fa-address-card
+  Contacts:
+    - Icon: fas fa-user
+      Name: Name
+      Value: Vishnu Raveendranathan
+    - Icon: fas fa-map-marker-alt
+      Name: Adresse
+      Value: Thrissur, Kerala, India
+    - Icon: fas fa-mobile-alt
+      Name: Telefon
+      Value: +91-9994037989
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: https://captv89.github.io/contact.html
