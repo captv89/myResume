@@ -1,5 +1,5 @@
 ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
-baseURL = "https://captv89.github.io/myResume/"
+baseURL = "https://captv89.github.io/myResume"
 title = "My Portfolio"
 languageCode = "en"
 DefaultContentLanguage = "en"
