@@ -1,15 +1,15 @@
 PersonalData:
-  Title: Información personal
+  Title: Personlig data
   Icon: fas fa-user
   Suffix: "R"
   Name: Vishnu
-  CurrentWorkplace: Propietario del producto y experto en temas
+  CurrentWorkplace: Produktejer og emne Ekspert
   Contacts:
     - Icon: fas fa-user
-      Name: Nombre
+      Name: Navn
       Value: Vishnu R
     - Icon: fas fa-map-marker-alt
-      Name: Habla a
+      Name: Adresse
       Value: Thrissur, Kerala, India
     # - Icon: fas fa-mobile-alt
     #   Name: Phone
@@ -18,91 +18,91 @@ PersonalData:
     #   Name: Email
     #   Value: good.boy@example.org
     - Icon: fas fa-globe
-      Name: Sitio web
+      Name: Internet side
       Value: https://captv89.github.io
     # - Icon: far fa-calendar-alt
     #   Name: Date of birth
     #   Value: 01.01.1111
 
 BriefProfile:
-  Title: Perfil breve
+  Title: Kort profil
   Icon: fas fa-th-list
   Sections:
-    - Name: Fortalezas
+    - Name: Styrker.
       Items:
-        - Vela y navegación
-        - Resolución de problemas
-        - Pensamiento computacional
-        - Jugador de equipo
-        - Impulsado
-    - Name: Habilidades
+        - Sejlads og navigation
+        - Problemløsning
+        - Computational Thinking
+        - Holdspiller
+        - Driven
+    - Name: Færdigheder
       Items:
-        - Solución EAT (ERP) Propietario del producto para la industria marítima
-        - PYME en aplicaciones de negocios marinos.
-        - Conocimiento funcional y técnico en Dynamics 365 Negocios Central
-        - Gerente de proyecto para la implementación del cambio en toda la flota.
+        - EAM (ERP) Løsning Produktejer til maritime industri
+        - SMV i marine forretningsprogrammer
+        - Funktionel og teknisk viden i Dynamics 365 Business Central
+        - Projektleder for gennemførelse af forandring på tværs af flåden
         - Devops & Automation Coordinator
-        - Análisis de datos y asesor de migración de datos.
-        - Presentación del cliente
-        - Gestión del ciclo de vida del producto
-        - Documentación técnica
-    - Name: Certificaciones
+        - Data Analysis og Data Migration Consultant
+        - Klientpræsentation
+        - Produktets livscyklusstyring
+        - Teknisk dokumentation
+    - Name: Certificeringer.
       Items:
-        - Aprendizaje de la máquina (Universidad de Stanford)
-        - Hacker ético certificado (CEH)
-        - AWS IOT Mantenimiento predictivo
+        - Maskinlæring (Stanford University)
+        - Certificeret etisk hacker (CEH)
+        - AWS IOT Prediktiv vedligeholdelse
         - IBM AI Foundations for Business
-        - Analista de Business Intelligence
+        - Business Intelligence Analyst
 
 Experience:
-  Title: Experiencia
+  Title: Erfaring
   Icon: fas fa-briefcase
   Sections:
-    - Name: Dueño del producto
+    - Name: Produktejer.
       Employer: Alpha Ori Technologies
       Website: https://alphaori.sg
       StartDate: 03/2021
-      EndDate: Hoy
+      EndDate: I dag
       Details:
-        - Solución EAT (ERP) Propietario del producto para la industria marítima
-        - PYME en aplicaciones de negocios marinos.
-        - Conocimiento funcional y técnico en Dynamics 365 Negocios Central
-        - Gestión del ciclo de vida del producto
-      Skills: ["Gestión de productos", "Resolución de conflictos", "Broker de conocimiento", "Desarrollador", "Analista", "StoryTeller"]
-    - Name: Analista de negocios + SME
+        - EAM (ERP) Løsning Produktejer til maritime industri
+        - SMV i marine forretningsprogrammer
+        - Funktionel og teknisk viden i Dynamics 365 Business Central
+        - Produktets livscyklusstyring
+      Skills: ["Produktstyring", "Konfliktløsning", "Videnmægler", "Udvikler", "Analytiker", "Storyteller"]
+    - Name: Business Analyst + SME
       Employer: Alpha Ori Technologies
       Website: https://alphaori.sg
       StartDate: 03/2020
       EndDate: 03/2021
       Details:
-        - Gerente de proyecto para la implementación del cambio en toda la flota.
+        - Projektleder for implementering af forandring på tværs af flåden
         - Devops & Automation Consultant
-        - Análisis de datos y asesor de migración de datos.
-        - Presentación del cliente
-        - Documentación técnica
-      Skills: ["Comunicación", "Requisitos recopilando", "Objetivos delegados", "Gestión de partes interesadas", "Gestión del tiempo", "Documentación"]
-    - Name: Oficial de navegación
-      Employer: Barco mercante
+        - Data Analysis og Data Migration Consultant
+        - Klientpræsentation
+        - Teknisk dokumentation
+      Skills: ["Kommunikation", "Krav indsamling", "Delegate Mål", "Stakeholder Management", "Time Management", "Dokumentation"]
+    - Name: Navigationsofficer.
+      Employer: Merchant Navy.
       Website: https://en.wikipedia.org/wiki/Merchant_navy
       StartDate: 01/2010
       EndDate: 01/2020
       Details:
-        - Sosteniendo certificados profesionales en
-        - 1. Fuego de lucha
-        - 2. Primeros auxilios y atención médica de emergencia.
-        - 3. Técnicas de supervivencia personal.
-        - 4. Mantenerse y navegación.
-        - 5. COMUNICACIÓN DE RADIO GMDSS
-        - Navegó en transportistas a granel y barcos de contenedores.
-        - Fuerte conocimiento sobre mantenimiento y gestión de embarcaciones.
-        - Comprensión clara de las operaciones del barco.
-      Skills: ["Navegación", "maniobras", "gestión de carga", "gestión de barcos", "marinería"]
+        - Holding af professionelle certifikater i
+        - 1. Brandbekæmpelse
+        - 2. Nødstøtte og lægehjælp
+        - 3. personlige overlevelsesteknikker
+        - 4. Se Keeping & Navigation
+        - 5. GMDSS Radio Communication
+        - Sejlede på bulkskibe og containerskibe
+        - Stærke viden om opretholdelse af fartøjet
+        - Rigtig forståelse af skibsoperationer
+      Skills: ["Navigation", "Manøvrering", "Cargo Management", "Ship Management", "Seamanship"]
 
 AcademicEducation:
-  Title: Educación académica
+  Title: Akademisk uddannelse.
   Icon: fas fa-university
   Sections:
-    - Name: Ciencia náutica
+    - Name: Nautisk videnskab
       Organisation: AMET University
       Website: https://www.example.com
       StartDate: 2007
@@ -111,10 +111,10 @@ AcademicEducation:
       Score: CGPA 7.96 
 
 ProfessionalTraining:
-  Title: Entrenamiento profesional
+  Title: Professionel træning
   Icon: fas fa-road
   Sections:
-    - Name: Certificaciones posteriores al mar
+    - Name: Post Sea Certifications.
       Organisation: Indian Maritime University
       Website: https://www.imu.edu.in/
       StartDate: 2015
@@ -122,19 +122,19 @@ ProfessionalTraining:
       Qualification: Chief Mates FG
 
 SchoolEducation:
-  Title: Educación escolar
+  Title: Skoleundervisning
   Icon: fas fa-school
   Sections:
-    - Name: Escuela secundaria superior (12th)
+    - Name: Højere gymnasium (12th)
       Organisation: Kendriya Vidyalaya
       Website: https://kvsangathan.nic.in/
       StartDate: 2006
       EndDate: 2007
-      Qualification: Con física, química, matemáticas y ciencias de la computación.
+      Qualification: Med fysik, kemi, matematik og datalogi
       Score: Total 84%
 
 # FurtherEducation:
-#   Title: Further Education
+#   Title:Videreuddannelse
 #   Icon: fas fa-chalkboard-teacher
 #   Sections:
 #     - Name: PersonalTrainer
@@ -145,7 +145,7 @@ SchoolEducation:
 #       Qualification: PersonalTrainer A-License
 
 Diplomas:
-  Title: Certificaciones
+  Title: Certificeringer
   Icon: fas fa-certificate
   Items:
     - 2021 - Stanford University - Machine Learning
@@ -158,13 +158,13 @@ Diplomas:
     - 2021 - Udemy - Business Intelligence Analyst
 
 Languages:
-  Title: Idiomas
+  Title: Sprog
   Icon: fas fa-language
   Items:
-    - Malayalam (Native)
-    - English (Competencia profesional completa)
-    - Hindi (Competencia profesional completa)
-    - Tamil (Competencia profesional completa)
+    - Malayalam (indfødte)
+    - engelsk (fuld faglig færdighed)
+    - Hindi (fuld faglig færdighed)
+    - Tamil (fuld faglig færdighed)
 
 # Organizations:
 #   Title: Organizations
@@ -174,7 +174,7 @@ Languages:
 #     - Dog school B
 
 Skills:
-  Title: Habilidades
+  Title: Færdigheder
   Icon: fas fa-sliders-h
   Items:
     - Tried & Experienced- Web Dev, Networking & Security, Data Science, IoT, ML & AI
@@ -188,28 +188,28 @@ Skills:
     - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
 
 Interests:
-  Title: Intereses
+  Title: Interesser.
   Icon: fas fa-chess
   Items:
-    - Fotografía
-    - Fútbol
-    - Películas
-    - Conocedor gourmet
-    - Música
+    - Fotografering
+    - Fodbold
+    - Film.
+    - Foodie.
+    - Musik
 
 Contacts2:
-  Title: Contacto
+  Title: Kontakt
   Icon: fas fa-address-card
   Contacts:
     - Icon: fas fa-user
-      Name: Nombre
+      Name: Navn
       Value: Vishnu Raveendranathan
     - Icon: fas fa-map-marker-alt
-      Name: Habla a
+      Name: Adresse
       Value: Thrissur, Kerala, India
     - Icon: fas fa-mobile-alt
-      Name: Teléfono
+      Name: telefon
       Value: +91-9994037989
     - Icon: fas fa-envelope
-      Name: Correo electrónico
+      Name: Email.
       Value: https://captv89.github.io/contact.html

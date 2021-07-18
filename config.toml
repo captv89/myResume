@@ -55,9 +55,14 @@ theme="flex-bp-hugo-cv"
     [languages.de.params]
   [languages.es]
     languageName = "ES"
-    title = "curriculumVitae"
+    title = "Curriculum Vitae"
     weight = 3
     [languages.es.params]
+ [languages.da]
+    languageName = "DA"
+    title = "Curriculum Vitae"
+    weight = 4
+    [languages.da.params]
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your

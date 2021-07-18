@@ -48,6 +48,7 @@ BriefProfile:
         - Technische Dokumentation
     - Name: Zertifizierungen
       Items:
+        - Maschinenlernen (Stanford University)
         - Zertifizierter ethischer Hacker (CEH)
         - AWS IOT Vorausschauend Wartung
         - IBM AI Stiftungen für das Geschäft
@@ -147,6 +148,7 @@ Diplomas:
   Title: Zertifizierungen
   Icon: fas fa-certificate
   Items:
+    - 2021 - Stanford University - Machine Learning
     - 2020 - Coursera - Git & Github
     - 2020 - AWS - AWS IoT, Predictive Maintenance
     - 2020 - IBM - The AI Ladder, A Framework for Deploying AI in your Enterprise
@@ -175,15 +177,15 @@ Skills:
   Title: Kompetenzen
   Icon: fas fa-sliders-h
   Items:
-    - Probe & Erfahrene Web dev, Networking & Security, Data Science, IOT, ML & AI
-    - Datenbank- MSSQL, MySQL, SQLite, PostgreSQL & MONGODB
-    - Sprachen - Python, JS, Go, Dart & PHP
-    - Scripting-Bash, PowerShell
-    - Framework-Flattern, Vujs, lolly, Scrappy, Gin, Hugo
-    - Devops- Jenkins, Azure Devops, Travisci, Gocd
-    - Services- IBM Watson, Aws, Azure & Dynamics 365
-    - ML- Azure ML Studio, Jupiter-Notebook, Tensorflow, Keras
-    - OS- Centos, Raspbian, Mac, Ubuntu, Windows, Papagei & Kali
+    - Probiert & erfahren.- Web Dev, Networking & Security, Data Science, IoT, ML & AI
+    - Datenbank- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
+    - Sprachen- Python, JS, Go, Dart & PHP
+    - Skript- Bash, Powershell
+    - Rahmen- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
+    - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
+    - Dienstleistungen- IBM Watson, AWS, Azure & Dynamics 365
+    - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
+    - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
 
 Interests:
   Title: Interessen
