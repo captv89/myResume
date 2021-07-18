@@ -55,12 +55,12 @@ theme="flex-bp-hugo-cv"
     [languages.de.params]
   [languages.es]
     languageName = "ES"
-    title = "Curriculum Vitae"
+    title = "Currículum"
     weight = 3
     [languages.es.params]
  [languages.da]
     languageName = "DA"
-    title = "Curriculum Vitae"
+    title = "Genoptag"
     weight = 4
     [languages.da.params]
 [languages.fi]
@@ -68,6 +68,11 @@ theme="flex-bp-hugo-cv"
     title = "Ansioluettelo"
     weight = 5
     [languages.fi.params]
+[languages.no]
+    languageName = "NO"
+    title = "Gjenoppta"
+    weight = 6
+    [languages.no.params]
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted.
