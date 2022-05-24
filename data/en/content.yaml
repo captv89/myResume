@@ -3,20 +3,20 @@ PersonalData:
   Icon: fas fa-user
   Suffix: "R"
   Name: Vishnu
-  CurrentWorkplace: Product Owner & Subject Matter Expert
+  CurrentWorkplace: Product Manager
   Contacts:
     - Icon: fas fa-user
       Name: Name
       Value: Vishnu R
     - Icon: fas fa-map-marker-alt
-      Name: Address
-      Value: Thrissur, Kerala, India
+      Name: Location
+      Value: Germany
     # - Icon: fas fa-mobile-alt
     #   Name: Phone
     #   Value: +12 34567 89000
-    # - Icon: fas fa-envelope
-    #   Name: Email
-    #   Value: good.boy@example.org
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: s274ciaky@mozmail.com
     - Icon: fas fa-globe
       Name: Website
       Value: https://captv89.github.io
@@ -58,11 +58,22 @@ Experience:
   Title: Experience
   Icon: fas fa-briefcase
   Sections:
+    - Name: Product Manager
+      Employer: DNV
+      Website: https://dnv.com
+      StartDate: 12/2021
+      EndDate: Today
+      Details:
+        - Product Manager for the Navigator product
+        - SME in Marine Business Applications
+        - Functional & Technical Knowledge in opensource languages and frameworks
+        - Product Life Cycle Management
+      Skills: ["Product Management", "Digital Transformation", "Product Vision", "Market Study", "Analyst", "Domain Expert"]
     - Name: Product Owner
       Employer: Alpha Ori Technologies
       Website: https://alphaori.sg
       StartDate: 03/2021
-      EndDate: Today
+      EndDate: 11/2021
       Details:
         - EAM (ERP) Solution Product Owner for Maritime Industry
         - SME in Marine Business Applications
@@ -148,6 +159,9 @@ Diplomas:
   Title: Certifications
   Icon: fas fa-certificate
   Items:
+    - 2022 - Security Journey - Green Belt
+    - 2022 - Security Journey - Yellow Belt
+    - 2022 - Security Journey - White Belt
     - 2021 - Stanford University - Machine Learning
     - 2020 - Coursera - Git & Github
     - 2020 - AWS - AWS IoT, Predictive Maintenance
@@ -165,6 +179,7 @@ Languages:
     - English (Full Professional Proficiency)
     - Hindi (Full Professional Proficiency)
     - Tamil (Full Professional Proficiency)
+    - Deutsche (Elementary Proficiency)
 
 # Organizations:
 #   Title: Organizations
@@ -203,13 +218,13 @@ Contacts2:
   Contacts:
     - Icon: fas fa-user
       Name: Name
-      Value: Vishnu Raveendranathan
+      Value: Vishnu Ravendranathan
     - Icon: fas fa-map-marker-alt
-      Name: Address
-      Value: Thrissur, Kerala, India
-    - Icon: fas fa-mobile-alt
-      Name: Phone
-      Value: +91-9994037989
+      Name: Location
+      Value: Germany
+    # - Icon: fas fa-mobile-alt
+    #   Name: Phone
+    #   Value: 
     - Icon: fas fa-envelope
       Name: Email
-      Value: https://captv89.github.io/contact.html
+      Value: s274ciaky@mozmail.com
