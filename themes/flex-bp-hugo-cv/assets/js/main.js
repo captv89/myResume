@@ -50,3 +50,15 @@ window.addEventListener('DOMContentLoaded', () => {
 // -----------------------------------------------------------------------------
 // Misc
 // -----------------------------------------------------------------------------
+const langBtn = document.querySelector('#language-btn');
+const langBox = document.querySelector('#language-box');
+// Theme toggle button handler
+langBtn.addEventListener("click", function() {
+  if (langBox.classList.contains("show")) {
+	langBox.classList.remove("show");
+	langBox.classList.add("hide");
+  } else {
+	langBox.classList.remove("hide");
+	langBox.classList.add("show");
+  }
+});

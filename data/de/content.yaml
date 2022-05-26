@@ -10,13 +10,13 @@ PersonalData:
       Value: Vishnu R
     - Icon: fas fa-map-marker-alt
       Name: Adresse
-      Value: Thrissur, Kerala, India
+      Value: Germany
     # - Icon: fas fa-mobile-alt
     #   Name: Phone
     #   Value: +12 34567 89000
-    # - Icon: fas fa-envelope
-    #   Name: Email
-    #   Value: good.boy@example.org
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: s274ciaky@mozmail.com
     - Icon: fas fa-globe
       Name: Webseite
       Value: https://captv89.github.io
@@ -58,11 +58,22 @@ Experience:
   Title: Erfahrung
   Icon: fas fa-briefcase
   Sections:
+    - Name: Produktmanager
+      Employer: DNV
+      Website: https://dnv.com
+      StartDate: 12/2021
+      EndDate: Heute
+      Details:
+        - Produktmanager für das Navigator -Produkt
+        - KMU in Marine Business Applications
+        - Funktionales und technisches Wissen in OpenSource -Sprachen und Frameworks
+        - Produktlebenszyklusmanagement
+      Skills: ["Produktmanagement", "digitale Transformation", "Produktvision", "Marktstudie", "Analyst", "Domain Expert"]
     - Name: Produktinhaber
       Employer: Alpha Ori Technologies
       Website: https://alphaori.sg
       StartDate: 03/2021
-      EndDate: Heute
+      EndDate: 11/2021
       Details:
         - EAM (ERP) Lösung Produktinhaber für die maritime Industrie
         - KMU in Marine Business-Anwendungen
@@ -206,7 +217,7 @@ Contacts2:
       Value: Vishnu Raveendranathan
     - Icon: fas fa-map-marker-alt
       Name: Adresse
-      Value: Thrissur, Kerala, India
+      Value: Germany
     - Icon: fas fa-mobile-alt
       Name: Telefon
       Value: +91-9994037989

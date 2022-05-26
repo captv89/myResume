@@ -1,137 +1,179 @@
 PersonalData:
-  Title: Henkilökohtaiset tiedot
-  Icon: fas fa-user
-  Suffix: "R"
-  Name: Vishnu
-  CurrentWorkplace: Tuotteen omistaja ja aihe asiantuntija
-  Contacts:
-    - Icon: fas fa-user
-      Name: Nimi
-      Value: Vishnu R
-    - Icon: fas fa-map-marker-alt
-      Name: Osoite
-      Value: Thrissur, Kerala, India
-    # - Icon: fas fa-mobile-alt
-    #   Name: Phone
-    #   Value: +12 34567 89000
-    # - Icon: fas fa-envelope
-    #   Name: Email
-    #   Value: good.boy@example.org
-    - Icon: fas fa-globe
-      Name: Verkkosivusto
-      Value: https://captv89.github.io
-    # - Icon: far fa-calendar-alt
-    #   Name: Date of birth
-    #   Value: 01.01.1111
+    Title: Henkilökohtaiset tiedot
+    Icon: fas fa-user
+    Suffix: 'R'
+    Name: Vishnu
+    CurrentWorkplace: Tuotteen omistaja ja aihe asiantuntija
+    Contacts:
+        - Icon: fas fa-user
+          Name: Nimi
+          Value: Vishnu R
+        - Icon: fas fa-map-marker-alt
+          Name: Osoite
+          Value: Germany
+        # - Icon: fas fa-mobile-alt
+        #   Name: Phone
+        #   Value: +12 34567 89000
+        - Icon: fas fa-envelope
+          Name: Email
+          Value: s274ciaky@mozmail.com
+        - Icon: fas fa-globe
+          Name: Verkkosivusto
+          Value: https://captv89.github.io
+        # - Icon: far fa-calendar-alt
+        #   Name: Date of birth
+        #   Value: 01.01.1111
 
 BriefProfile:
-  Title: Lyhyt profiili
-  Icon: fas fa-th-list
-  Sections:
-    - Name: Vahvuudet
-      Items:
-        - Purjehdus ja navigointi
-        - Ongelmanratkaisu
-        - Laskennallinen ajattelu
-        - Joukkuepelaaja
-        - ajettu
-    - Name: Taidot
-      Items:
-        - EAM (ERP) Ratkaisu Tuotteen omistaja merenkulun teollisuudelle
-        - Pk-yritykset Marine Business -sovelluksissa
-        - Toiminnallinen ja tekninen tieto dynamiikassa 365 Liiketoiminnan keskus
-        - Projektin johtaja laivaston muutoksen toteuttamiseksi
-        - DROOPS & AUTOMATION-koordinaattori
-        - Data Analysis & Data Mongraation -konsultti
-        - Asiakasesitys
-        - Tuotteen elinkaaren hallinta
-        - Tekninen dokumentaatio
-    - Name: Sertifikaatit
-      Items:
-        - Machine Learning (Stanford University)
-        - Certified Ethical Hacker (CEH)
-        - AWS IoT:Predictive Maintenance
-        - IBM AI Foundations for Business
-        - Business Intelligence Analyst
+    Title: Lyhyt profiili
+    Icon: fas fa-th-list
+    Sections:
+        - Name: Vahvuudet
+          Items:
+              - Purjehdus ja navigointi
+              - Ongelmanratkaisu
+              - Laskennallinen ajattelu
+              - Joukkuepelaaja
+              - ajettu
+        - Name: Taidot
+          Items:
+              - EAM (ERP) Ratkaisu Tuotteen omistaja merenkulun teollisuudelle
+              - Pk-yritykset Marine Business -sovelluksissa
+              - Toiminnallinen ja tekninen tieto dynamiikassa 365 Liiketoiminnan keskus
+              - Projektin johtaja laivaston muutoksen toteuttamiseksi
+              - DROOPS & AUTOMATION-koordinaattori
+              - Data Analysis & Data Mongraation -konsultti
+              - Asiakasesitys
+              - Tuotteen elinkaaren hallinta
+              - Tekninen dokumentaatio
+        - Name: Sertifikaatit
+          Items:
+              - Machine Learning (Stanford University)
+              - Certified Ethical Hacker (CEH)
+              - AWS IoT:Predictive Maintenance
+              - IBM AI Foundations for Business
+              - Business Intelligence Analyst
 
 Experience:
-  Title: Kokea
-  Icon: fas fa-briefcase
-  Sections:
-    - Name: Tuotteen omistaja
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2021
-      EndDate: Tänään
-      Details:
-        - EMP (ERP) Ratkaisu Tuotteen omistaja merenkulun teollisuudelle
-        - Pk-yritykset Marine Business -sovelluksissa
-        - Toiminnallinen ja tekninen tieto dynamiikassa 365 Liiketoiminnan keskus
-        - Tuotteen elinkaaren hallinta
-      Skills: ["Tuotekehitys", "konfliktin ratkaiseminen", "Knowledge Broker", "Kehittäjä", "analyytikko", "Storyteller"]
-    - Name: Liiketoiminnan analyytikko + pk-yritys
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2020
-      EndDate: 03/2021
-      Details:
-        - Projektipäällikkö laivaston muutoksen toteuttamiseksi
-        - Devops & Automation Consultant
-        - Data Analysis & Data Mongraation -konsultti
-        - Asiakasesitys
-        - Tekninen dokumentaatio
-      Skills: ["Communication", "Requirements gathering", "Delegate Objectives", "Stakeholder Management", "Time Management", "Documenting"]
-    - Name: Navigointijohtaja
-      Employer: Merchant Navy
-      Website: https://en.wikipedia.org/wiki/Merchant_navy
-      StartDate: 01/2010
-      EndDate: 01/2020
-      Details:
-        - Ammatilliset todistukset
-        - 1. Palontorjunta
-        - 2. Emergency Ensiapu ja sairaanhoito
-        - 3. Henkilökohtaiset selviytymistekniikat
-        - 4. Katso säilyttäminen ja navigointi
-        - 5. GMDSS Radioviestintä
-        - purjehti irtolastialalla ja konttilaitoilla
-        - Vahva tieto aluksen ylläpidosta ja hallinnasta
-        - Alusten toiminnan selkeä käsitys
-      Skills: ["Navigointi", "Maneuvering", "Cargo Management", "Ship Management", "merimiehet"]
+    Title: Kokea
+    Icon: fas fa-briefcase
+    Sections:
+        - Name: Tuotepäällikkö
+          Employer: DNV
+          Website: https://dnv.com
+          StartDate: 12/2021
+          EndDate: Tänään
+          Details:
+              - Navigator -tuotteen tuotepäällikkö
+              - pk -yritys meriliiketoiminnoissa
+              - toiminnallinen ja tekninen tieto OpenSource -kielillä ja puitteissa
+              - Tuotteen elinkaaren hallinta
+          Skills:
+              [
+                  'Tuotenhallinta',
+                  'Digitaalinen muutos',
+                  'Tuotteen visio',
+                  'Markkinatutkimus',
+                  'Analyytikko',
+                  'Domain Expert',
+              ]
+        - Name: Tuotteen omistaja
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2021
+          EndDate: 11/2021
+          Details:
+              - EMP (ERP) Ratkaisu Tuotteen omistaja merenkulun teollisuudelle
+              - Pk-yritykset Marine Business -sovelluksissa
+              - Toiminnallinen ja tekninen tieto dynamiikassa 365 Liiketoiminnan keskus
+              - Tuotteen elinkaaren hallinta
+          Skills:
+              [
+                  'Tuotekehitys',
+                  'konfliktin ratkaiseminen',
+                  'Knowledge Broker',
+                  'Kehittäjä',
+                  'analyytikko',
+                  'Storyteller',
+              ]
+        - Name: Liiketoiminnan analyytikko + pk-yritys
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2020
+          EndDate: 03/2021
+          Details:
+              - Projektipäällikkö laivaston muutoksen toteuttamiseksi
+              - Devops & Automation Consultant
+              - Data Analysis & Data Mongraation -konsultti
+              - Asiakasesitys
+              - Tekninen dokumentaatio
+          Skills:
+              [
+                  'Communication',
+                  'Requirements gathering',
+                  'Delegate Objectives',
+                  'Stakeholder Management',
+                  'Time Management',
+                  'Documenting',
+              ]
+        - Name: Navigointijohtaja
+          Employer: Merchant Navy
+          Website: https://en.wikipedia.org/wiki/Merchant_navy
+          StartDate: 01/2010
+          EndDate: 01/2020
+          Details:
+              - Ammatilliset todistukset
+              - 1. Palontorjunta
+              - 2. Emergency Ensiapu ja sairaanhoito
+              - 3. Henkilökohtaiset selviytymistekniikat
+              - 4. Katso säilyttäminen ja navigointi
+              - 5. GMDSS Radioviestintä
+              - purjehti irtolastialalla ja konttilaitoilla
+              - Vahva tieto aluksen ylläpidosta ja hallinnasta
+              - Alusten toiminnan selkeä käsitys
+          Skills:
+              [
+                  'Navigointi',
+                  'Maneuvering',
+                  'Cargo Management',
+                  'Ship Management',
+                  'merimiehet',
+              ]
 
 AcademicEducation:
-  Title: Akateeminen koulutus
-  Icon: fas fa-university
-  Sections:
-    - Name: Meritieteellinen tiede
-      Organisation: AMET University
-      Website: https://www.example.com
-      StartDate: 2007
-      EndDate: 2010
-      Qualification: B.Sc Nautical Science
-      Score: CGPA 7.96 
+    Title: Akateeminen koulutus
+    Icon: fas fa-university
+    Sections:
+        - Name: Meritieteellinen tiede
+          Organisation: AMET University
+          Website: https://www.example.com
+          StartDate: 2007
+          EndDate: 2010
+          Qualification: B.Sc Nautical Science
+          Score: CGPA 7.96
 
 ProfessionalTraining:
-  Title: Ammattilaiskoulutus
-  Icon: fas fa-road
-  Sections:
-    - Name: Post Sea Sertifikaatit
-      Organisation: Indian Maritime University
-      Website: https://www.imu.edu.in/
-      StartDate: 2015
-      EndDate: 2015
-      Qualification: Chief Mates FG
+    Title: Ammattilaiskoulutus
+    Icon: fas fa-road
+    Sections:
+        - Name: Post Sea Sertifikaatit
+          Organisation: Indian Maritime University
+          Website: https://www.imu.edu.in/
+          StartDate: 2015
+          EndDate: 2015
+          Qualification: Chief Mates FG
 
 SchoolEducation:
-  Title: Kouluopetus
-  Icon: fas fa-school
-  Sections:
-    - Name: Korkeampi lukio (12th)
-      Organisation: Kendriya Vidyalaya
-      Website: https://kvsangathan.nic.in/
-      StartDate: 2006
-      EndDate: 2007
-      Qualification: Fysiikan, kemian, matematiikan ja tietojenkäsittelytieteen kanssa
-      Score: Total 84%
+    Title: Kouluopetus
+    Icon: fas fa-school
+    Sections:
+        - Name: Korkeampi lukio (12th)
+          Organisation: Kendriya Vidyalaya
+          Website: https://kvsangathan.nic.in/
+          StartDate: 2006
+          EndDate: 2007
+          Qualification: Fysiikan, kemian, matematiikan ja tietojenkäsittelytieteen kanssa
+          Score: Total 84%
 
 # FurtherEducation:
 #   Title: Further Education
@@ -145,26 +187,26 @@ SchoolEducation:
 #       Qualification: PersonalTrainer A-License
 
 Diplomas:
-  Title: Sertifikaatit
-  Icon: fas fa-certificate
-  Items:
-    - 2021 - Stanford University - Machine Learning
-    - 2020 - Coursera - Git & Github
-    - 2020 - AWS - AWS IoT, Predictive Maintenance
-    - 2020 - IBM - The AI Ladder, A Framework for Deploying AI in your Enterprise
-    - 2020 - IBM - Introduction to Data Science
-    - 2020 - IBM - Introduction to AI
-    - 2020 - IBM - AI Foundations for Business
-    - 2021 - Udemy - Business Intelligence Analyst
+    Title: Sertifikaatit
+    Icon: fas fa-certificate
+    Items:
+        - 2021 - Stanford University - Machine Learning
+        - 2020 - Coursera - Git & Github
+        - 2020 - AWS - AWS IoT, Predictive Maintenance
+        - 2020 - IBM - The AI Ladder, A Framework for Deploying AI in your Enterprise
+        - 2020 - IBM - Introduction to Data Science
+        - 2020 - IBM - Introduction to AI
+        - 2020 - IBM - AI Foundations for Business
+        - 2021 - Udemy - Business Intelligence Analyst
 
 Languages:
-  Title: Kieli (kielet
-  Icon: fas fa-language
-  Items:
-    - Malayalam (native)
-    - Englanti (täysi ammattitaito)
-    - Hindi (täydellinen ammattitaito)
-    - Tamil (täydellinen ammattitaito)
+    Title: Kieli (kielet
+    Icon: fas fa-language
+    Items:
+        - Malayalam (native)
+        - Englanti (täysi ammattitaito)
+        - Hindi (täydellinen ammattitaito)
+        - Tamil (täydellinen ammattitaito)
 
 # Organizations:
 #   Title: Organizations
@@ -174,42 +216,42 @@ Languages:
 #     - Dog school B
 
 Skills:
-  Title: Taidot
-  Icon: fas fa-sliders-h
-  Items:
-    - Tried & Kokenut- Web Dev, Networking & Security, Data Science, IoT, ML & AI
-    - Tietokanta- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
-    - Kieli (kielet- Python, JS, Go, Dart & PHP
-    - Scripting- Bash, Powershell
-    - Kehys- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
-    - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
-    - Palvelut- IBM Watson, AWS, Azure & Dynamics 365
-    - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
-    - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
+    Title: Taidot
+    Icon: fas fa-sliders-h
+    Items:
+        - Tried & Kokenut- Web Dev, Networking & Security, Data Science, IoT, ML & AI
+        - Tietokanta- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
+        - Kieli (kielet- Python, JS, Go, Dart & PHP
+        - Scripting- Bash, Powershell
+        - Kehys- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
+        - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
+        - Palvelut- IBM Watson, AWS, Azure & Dynamics 365
+        - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
+        - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
 
 Interests:
-  Title: Kiinnostuksen kohteet
-  Icon: fas fa-chess
-  Items:
-    - Valokuvaus
-    - jalkapallo
-    - Elokuvat
-    - Herkkusuu
-    - Musiikki
+    Title: Kiinnostuksen kohteet
+    Icon: fas fa-chess
+    Items:
+        - Valokuvaus
+        - jalkapallo
+        - Elokuvat
+        - Herkkusuu
+        - Musiikki
 
 Contacts2:
-  Title: Ottaa yhteyttä
-  Icon: fas fa-address-card
-  Contacts:
-    - Icon: fas fa-user
-      Name: Nimi
-      Value: Vishnu Raveendranathan
-    - Icon: fas fa-map-marker-alt
-      Name: Osoite
-      Value: Thrissur, Kerala, India
-    - Icon: fas fa-mobile-alt
-      Name: Puhelin
-      Value: +91-9994037989
-    - Icon: fas fa-envelope
-      Name: Sähköposti
-      Value: https://captv89.github.io/contact.html
+    Title: Ottaa yhteyttä
+    Icon: fas fa-address-card
+    Contacts:
+        - Icon: fas fa-user
+          Name: Nimi
+          Value: Vishnu Raveendranathan
+        - Icon: fas fa-map-marker-alt
+          Name: Osoite
+          Value: Germany
+        - Icon: fas fa-mobile-alt
+          Name: Puhelin
+          Value: +91-9994037989
+        - Icon: fas fa-envelope
+          Name: Sähköposti
+          Value: https://captv89.github.io/contact.html

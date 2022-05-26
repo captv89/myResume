@@ -44,35 +44,60 @@ theme="flex-bp-hugo-cv"
 
 [languages]
   [languages.en]
-    languageName = "EN"
+    languageName = "en"
     title = "Curriculum Vitae"
     weight = 1
     [languages.en.params]
   [languages.de]
-    languageName = "DE"
+    languageName = "ß"
     title = "Lebenslauf"
     weight = 2
     [languages.de.params]
   [languages.es]
-    languageName = "ES"
+    languageName = "ñ"
     title = "Currículum"
     weight = 3
     [languages.es.params]
  [languages.da]
-    languageName = "DA"
+    languageName = "Ø"
     title = "Genoptag"
     weight = 4
     [languages.da.params]
 [languages.fi]
-    languageName = "FI"
+    languageName = "Ä"
     title = "Ansioluettelo"
     weight = 5
     [languages.fi.params]
 [languages.no]
-    languageName = "NO"
+    languageName = "Å"
     title = "Gjenoppta"
     weight = 6
     [languages.no.params]
+[languages.ar]
+    languageName = "ض"
+    title = "مقرر"
+    weight = 6
+    [languages.ar.params]
+[languages.zh]
+    languageName = "汉"
+    title = "课程"
+    weight = 6
+    [languages.zh.params]
+[languages.fr]
+    languageName = "ç"
+    title = "Programme d'études"
+    weight = 6
+    [languages.fr.params]
+[languages.ja]
+    languageName = "あ"
+    title = "カリキュラム"
+    weight = 6
+    [languages.ja.params]
+[languages.ml]
+    languageName = "മ"
+    title = "പാഠായം"
+    weight = 6
+    [languages.ml.params]
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted.

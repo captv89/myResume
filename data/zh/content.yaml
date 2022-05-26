@@ -1,0 +1,230 @@
+PersonalData:
+  Title: 个人资料
+  Icon: fas fa-user
+  Suffix: "R"
+  Name: Vishnu
+  CurrentWorkplace: 产品经理
+  Contacts:
+    - Icon: fas fa-user
+      Name: 姓名
+      Value: Vishnu R
+    - Icon: fas fa-map-marker-alt
+      Name: 地点
+      Value: 德国
+    # - Icon: fas fa-mobile-alt
+    #   Name: Phone
+    #   Value: +12 34567 89000
+    - Icon: fas fa-envelope
+      Name: 电子邮件
+      Value: s274ciaky@mozmail.com
+    - Icon: fas fa-globe
+      Name: 网站
+      Value: https://captv89.github.io
+    # - Icon: far fa-calendar-alt
+    #   Name: Date of birth
+    #   Value: 01.01.1111
+
+BriefProfile:
+  Title: 简短概况
+  Icon: fas fa-th-list
+  Sections:
+    - Name: 优势
+      Items:
+        - 航行与导航
+        - 解决问题
+        - 计算思维
+        - 有团队精神的人
+        - 驱动
+    - Name: 技能
+      Items:
+        - EAM（EAM）海事行业的解决方案产品所有者
+        - 海洋业务应用中的中小企业
+        - 动态功能和技术知识365业务中央
+        - 跨车队实施变更的项目经理
+        - DevOps和自动化协调员
+        - 数据分析和数据迁移顾问
+        - 客户介绍
+        - 产品生命周期管理
+        - 技术文档
+    - Name: 认证
+      Items:
+        - 机器学习（斯坦福大学）
+        - 经过认证的道德黑客（CEH）
+        -  AWS物联网：预测性维护
+        - IBM AI业务基础
+        - 商业智能分析师
+
+Experience:
+  Title: 经验
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: 产品经理
+      Employer: DNV
+      Website: https://dnv.com
+      StartDate: 12/2021
+      EndDate: Today
+      Details:
+        - 导航产品的产品经理
+        - 海洋业务应用中的中小企业
+        - OpenSource语言和框架的功能和技术知识
+        - 产品生命周期管理
+      Skills: [“产品管理”，“数字化转型”，“产品愿景”，“市场研究”，“分析师”，“域专家”]
+    - Name: 产品拥有者
+      Employer: Alpha Ori Technologies
+      Website: https://alphaori.sg
+      StartDate: 03/2021
+      EndDate: 11/2021
+      Details:
+        - 海上行业的EAM（EAM）解决方案产品所有者
+        - 海洋业务应用中的中小企业
+        - 动态功能和技术知识365业务中央
+        - 产品生命周期管理
+      Skills: [“产品管理”，“解决冲突”，“知识经纪人”，“开发人员”，“分析师”，“讲故事者”]
+    - Name: 业务分析师 +中小企业
+      Employer: Alpha Ori Technologies
+      Website: https://alphaori.sg
+      StartDate: 03/2020
+      EndDate: 03/2021
+      Details:
+        - 跨车队实施变革的项目经理
+        - DevOps和自动化顾问
+        - 数据分析和数据迁移顾问
+        - 客户介绍
+        - 技术文档
+      Skills: [“沟通”，“要求收集”，“委托目标”，“利益相关者管理”，“时间管理”，“记录”]
+    - Name: 导航官
+      Employer: Merchant Navy
+      Website: https://en.wikipedia.org/wiki/Merchant_navy
+      StartDate: 01/2010
+      EndDate: 01/2020
+      Details:
+        - 持有专业证书
+        - 1.消防
+        - 2.紧急急救和医疗
+        - 3.个人生存技术
+        - 4.观看保持和导航
+        - 5.GMDSS无线电通信
+        - 在散装载体和集装箱船上航行
+        - 关于船舶维护和管理的强大知识
+        - 清楚地了解船舶运营
+      Skills: [“导航”，“机动”，“货物管理”，“船舶管理”，“船舶”]
+
+AcademicEducation:
+  Title: 学术教育
+  Icon: fas fa-university
+  Sections:
+    - Name: 航海科学
+      Organisation: AMET University
+      Website: https://www.example.com
+      StartDate: 2007
+      EndDate: 2010
+      Qualification: B.Sc Nautical Science
+      Score: CGPA 7.96 
+
+ProfessionalTraining:
+  Title: 专业培训
+  Icon: fas fa-road
+  Sections:
+    - Name: 后海认证
+      Organisation: Indian Maritime University
+      Website: https://www.imu.edu.in/
+      StartDate: 2015
+      EndDate: 2015
+      Qualification: Chief Mates FG
+
+SchoolEducation:
+  Title: 学校教育
+  Icon: fas fa-school
+  Sections:
+    - Name: Higher Secondary School (12th)
+      Organisation: Kendriya Vidyalaya
+      Website: https://kvsangathan.nic.in/
+      StartDate: 2006
+      EndDate: 2007
+      Qualification: 物理，化学，数学和计算机科学
+      Score: Total 84%
+
+# FurtherEducation:
+#   Title: Further Education
+#   Icon: fas fa-chalkboard-teacher
+#   Sections:
+#     - Name: PersonalTrainer
+#       Organisation: ACME University
+#       Website: https://www.example.com
+#       StartDate: 01/2010
+#       EndDate: 05/2014
+#       Qualification: PersonalTrainer A-License
+
+Diplomas:
+  Title: 认证
+  Icon: fas fa-certificate
+  Items:
+    - 2022-安全旅程 - 绿化带
+    - 2022-安全旅程 - 黄色带
+    - 2022-安全旅程 - 白带
+    - 2021-斯坦福大学 - 机器学习
+    - 2020 -Coursera- git＆github
+    - 2020 -AWS -AWS IOT，预测性维护
+    - 2020 -IBM -AI梯子，在企业中部署AI的框架
+    - 2020 -IBM-数据科学简介
+    - 2020 -IBM- AI简介
+    - 2020 -IBM -AI业务基础
+    - 2021 -Udemy-商业智能分析师
+
+Languages:
+  Title: 语言
+  Icon: fas fa-language
+  Items:
+    - 马拉雅拉姆语（本地）
+    - 英语（完整的专业水平）
+    - 印地语（全部专业水平）
+    - 泰米尔语（完整的专业水平）
+    - 德意志（基础水平）
+
+# Organizations:
+#   Title: Organizations
+#   Icon: fas fa-users
+#   Items:
+#     - Dog school A
+#     - Dog school B
+
+Skills:
+  Title: 技能
+  Icon: fas fa-sliders-h
+  Items:
+    - 经验丰富的Web开发，网络和安全，数据科学，物联网，ML＆AI
+    - 数据库 - MSSQL，MYSQL，SQLITE，POSTGRESQL和MONGODB
+    - 语言 -  Python，JS，GO，DART和PHP
+    - 脚本 -  bash，powershell
+    - 框架 - 颤抖，vuejs，colly，scrappy，杜松子酒，雨果
+    - DevOps - Jenkins，Azure Devops，Travisci，GOCD
+    - 服务 -  IBM Watson，AWS，Azure＆Dynamics 365
+    - ML- Azure ML Studio，木星笔记本，Tensorflow，Keras
+    - os- Centos，Raspbian，Mac，Ubuntu，Windows，Parrot＆Kali
+
+Interests:
+  Title: 利益
+  Icon: fas fa-chess
+  Items:
+    - 摄影
+    - 足球
+    - 电影
+    - 美食家
+    - 音乐
+
+Contacts2:
+  Title: 接触
+  Icon: fas fa-address-card
+  Contacts:
+    - Icon: fas fa-user
+      Name: 姓名
+      Value: Vishnu Ravendranathan
+    - Icon: fas fa-map-marker-alt
+      Name: 地点
+      Value: 德国
+    # - Icon: fas fa-mobile-alt
+    #   Name: Phone
+    #   Value: 
+    - Icon: fas fa-envelope
+      Name: 电子邮件
+      Value: s274ciaky@mozmail.com

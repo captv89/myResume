@@ -1,0 +1,230 @@
+PersonalData:
+  Title: بيانات شخصية
+  Icon: fas fa-user
+  Suffix: "R"
+  Name: Vishnu
+  CurrentWorkplace: مدير الإنتاج
+  Contacts:
+    - Icon: fas fa-user
+      Name: اسم
+      Value: Vishnu R
+    - Icon: fas fa-map-marker-alt
+      Name: موقع
+      Value: ألمانيا
+    # - Icon: fas fa-mobile-alt
+    #   Name: Phone
+    #   Value: +12 34567 89000
+    - Icon: fas fa-envelope
+      Name: بريد الالكتروني
+      Value: s274ciaky@mozmail.com
+    - Icon: fas fa-globe
+      Name: موقع الكتروني
+      Value: https://captv89.github.io
+    # - Icon: far fa-calendar-alt
+    #   Name: Date of birth
+    #   Value: 01.01.1111
+
+BriefProfile:
+  Title: نبذة مختصرة
+  Icon: fas fa-th-list
+  Sections:
+    - Name: نقاط القوة
+      Items:
+        - الإبحار والملاحة
+        - حل المشاكل
+        - التفكير الحسابي
+        - لاعب الفريق
+        - تحركها
+    - Name: مهارات
+      Items:
+        - EAM (ERP) مالك منتج الحلول للصناعة البحرية
+        - الشركات الصغيرة والمتوسطة في تطبيقات الأعمال البحرية
+        - المعرفة الوظيفية والتقنية في Dynamics 365 Business Central
+        - مدير المشروع لتنفيذ التغيير عبر الأسطول
+        - منسق ديفوبس وأتمتة
+        - مستشار تحليل البيانات وترحيل البيانات
+        - عرض العميل
+        - ادارة دورة حياة المنتج
+        - الوثائق الفنية
+    - Name: الشهادات
+      Items:
+        - التعلم الآلي (جامعة ستانفورد)
+        - المتسلل الأخلاقي المعتمد (CEH)
+        - AWS IOT صيانة تنبؤية
+        - أسس IBM AI للأعمال
+        - محلل ذكاء الأعمال
+
+Experience:
+  Title: خبرة
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: مدير الإنتاج
+      Employer: DNV
+      Website: https://dnv.com
+      StartDate: 12/2021
+      EndDate: اليوم
+      Details:
+        - مدير المنتج لمنتج Navigator
+        - الشركات الصغيرة والمتوسطة في تطبيقات الأعمال البحرية
+        - المعرفة الوظيفية والتقنية في اللغات والأطر
+        - ادارة دورة حياة المنتج
+      Skills: ["إدارة المنتج" , "التحول الرقمي" , "رؤية المنتج" , "دراسة السوق" , "محلل" , "خبير المجال"]
+    - Name: مالك المنتج
+      Employer: Alpha Ori Technologies
+      Website: https://alphaori.sg
+      StartDate: 03/2021
+      EndDate: 11/2021
+      Details:
+        - EAM (ERP) مالك منتج الحلول للصناعة البحرية
+        - الشركات الصغيرة والمتوسطة في تطبيقات الأعمال البحرية
+        - المعرفة الوظيفية والتقنية في Dynamics 365 Business Central
+        - ادارة دورة حياة المنتج
+      Skills: ["إدارة المنتجات" , "حل الصراع" , "وسيط المعرفة" , "مطور" , "محلل" , "حكواتي"]
+    - Name: محلل الأعمال + SME
+      Employer: Alpha Ori Technologies
+      Website: https://alphaori.sg
+      StartDate: 03/2020
+      EndDate: 03/2021
+      Details:
+        - مدير المشروع لتنفيذ التغيير عبر الأسطول
+        - مستشار ديفوبس وأتمتة
+        - مستشار تحليل البيانات وترحيل البيانات
+        - عرض العميل
+        - الوثائق الفنية
+      Skills: ["الاتصالات" , "جمع المتطلبات" , "أهداف المفوض" , "إدارة أصحاب المصلحة" , "إدارة الوقت" , "توثيق"]
+    - Name: ضابط الملاحة
+      Employer: البحرية التجارية
+      Website: https://en.wikipedia.org/wiki/Merchant_navy
+      StartDate: 01/2010
+      EndDate: 01/2020
+      Details:
+        - عقد شهادات مهنية في
+        - 1. مكافحة النار
+        - 2. الإسعافات الأولية في حالات الطوارئ والرعاية الطبية
+        - 3. تقنيات البقاء الشخصية
+        - 4. مشاهدة الحفاظ والملاحة
+        - 5. الاتصالات الإذاعية GMDSS
+        - أبحر على شركات النقل السائبة وسفن الحاويات
+        - معرفة قوية بصيانة الوعاء والإدارة
+        - فهم واضح لعمليات السفن
+      Skills: ["الملاحة" , "المناورة" , "إدارة البضائع" , "إدارة السفن" , "البحرية"]
+
+AcademicEducation:
+  Title: التعليم الأكاديمي
+  Icon: fas fa-university
+  Sections:
+    - Name: علم بحري
+      Organisation: AMET University
+      Website: https://www.example.com
+      StartDate: 2007
+      EndDate: 2010
+      Qualification: B.Sc علم بحري
+      Score: CGPA 7.96 
+
+ProfessionalTraining:
+  Title: تدريب احترافي
+  Icon: fas fa-road
+  Sections:
+    - Name: بعد شهادات البحر
+      Organisation: Indian Maritime University
+      Website: https://www.imu.edu.in/
+      StartDate: 2015
+      EndDate: 2015
+      Qualification: Chief Mates FG
+
+SchoolEducation:
+  Title: التعليم المدرسي
+  Icon: fas fa-school
+  Sections:
+    - Name: Higher Secondary School (12th)
+      Organisation: Kendriya Vidyalaya
+      Website: https://kvsangathan.nic.in/
+      StartDate: 2006
+      EndDate: 2007
+      Qualification: مع الفيزياء والكيمياء والرياضيات وعلوم الكمبيوتر
+      Score: Total 84%
+
+# FurtherEducation:
+#   Title: Further Education
+#   Icon: fas fa-chalkboard-teacher
+#   Sections:
+#     - Name: PersonalTrainer
+#       Organisation: ACME University
+#       Website: https://www.example.com
+#       StartDate: 01/2010
+#       EndDate: 05/2014
+#       Qualification: PersonalTrainer A-License
+
+Diplomas:
+  Title: الشهادات
+  Icon: fas fa-certificate
+  Items:
+    - 2022 - رحلة أمنية - الحزام الأخضر
+    - 2022 - رحلة أمنية - الحزام الأصفر
+    - 2022 - رحلة أمنية - الحزام الأبيض
+    - 2021 - جامعة ستانفورد - التعلم الآلي
+    - 2020 - Coursera - Git & Github
+    - 2020 - AWS - AWS IOT , صيانة تنبؤية
+    - 2020 - IBM - سلم الذكاء الاصطناعي , إطار لنشر الذكاء الاصطناعي في مؤسستك
+    - 2020 - IBM - مقدمة لعلوم البيانات
+    - 2020 - IBM - مقدمة إلى الذكاء الاصطناعي
+    - 2020 - IBM - أسس منظمة العفو الدولية للأعمال
+    - 2021 - Udemy - محلل ذكاء الأعمال
+
+Languages:
+  Title: اللغات
+  Icon: fas fa-language
+  Items:
+    - مالايالام (مواطن)
+    - اللغة الإنجليزية (الكفاءة المهنية الكاملة)
+    - الهندية (الكفاءة المهنية الكاملة)
+    - التاميل (الكفاءة المهنية الكاملة)
+    - دويتشه (الكفاءة الأولية)
+
+# Organizations:
+#   Title: Organizations
+#   Icon: fas fa-users
+#   Items:
+#     - Dog school A
+#     - Dog school B
+
+Skills:
+  Title: مهارات
+  Icon: fas fa-sliders-h
+  Items:
+    - حاول وذوي الخبرة- Web Dev, Networking & Security, Data Science, IoT, ML & AI
+    - قاعدة البيانات- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
+    - اللغات- Python, JS, Go, Dart & PHP
+    - البرمجة النصية- Bash, Powershell
+    - إطار العمل- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
+    - ديفوبس- Jenkins, Azure DevOps, TravisCI, GoCD
+    - خدمات- IBM Watson, AWS, Azure & Dynamics 365
+    - التعلم الالي- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
+    - أنظمة التشغيل- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
+
+Interests:
+  Title: الإهتمامات
+  Icon: fas fa-chess
+  Items:
+    - التصوير
+    - كرة القدم
+    - أفلام
+    - عشاق الطعام
+    - موسيقى
+
+Contacts2:
+  Title: اتصال
+  Icon: fas fa-address-card
+  Contacts:
+    - Icon: fas fa-user
+      Name: اسم
+      Value: Vishnu Ravendranathan
+    - Icon: fas fa-map-marker-alt
+      Name: موقع
+      Value: ألمانيا
+    # - Icon: fas fa-mobile-alt
+    #   Name: Phone
+    #   Value: 
+    - Icon: fas fa-envelope
+      Name: بريد الالكتروني
+      Value: s274ciaky@mozmail.com
