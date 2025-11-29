@@ -18,8 +18,10 @@ copyright = "Vishnu R"
 enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
-paginate = 6
 theme="flex-bp-hugo-cv"
+
+[pagination]
+  pagerSize = 6
 
 [sitemap]
     changefreq = "weekly"
@@ -31,10 +33,8 @@ theme="flex-bp-hugo-cv"
     pages = "/:slug/"
     page = "/:slug/"
 
-[Author]  
-  name = "Vishnu  R"
-
 [params]
+  Author = "Vishnu R"
   description = "My Updated CV"
   customDateFormat = "01/2006" # "02.01.2006"
   # js=["/js/test_site.js"]
@@ -160,7 +160,7 @@ theme="flex-bp-hugo-cv"
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
@@ -178,5 +178,5 @@ theme="flex-bp-hugo-cv"
   [services.instagram]
     disableInlineCSS = true
 
-  [services.twitter]
+  [services.x]
     disableInlineCSS = true

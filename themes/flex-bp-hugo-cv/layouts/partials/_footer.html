@@ -13,6 +13,6 @@
 </div>
 
 <footer>
-    &copy; {{ now.Format "2006" }} {{ range .Site.Author }}{{ . }}{{ end }}.
+    &copy; {{ now.Format "2006" }} {{ .Site.Params.Author }}.
     {{ i18n "themeby" }} <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>.
 </footer>
