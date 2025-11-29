@@ -3,7 +3,7 @@ PersonalData:
   Icon: fas fa-user
   Suffix: "R"
   Name: Vishnu
-  CurrentWorkplace: Produktinhaber & Subjektexperte
+  CurrentWorkplace: Produktmanagement Teamleiter bei Oldendorff Carriers GmbH
   Contacts:
     - Icon: fas fa-user
       Name: name
@@ -19,7 +19,7 @@ PersonalData:
       Value: s274ciaky@mozmail.com
     - Icon: fas fa-globe
       Name: Webseite
-      Value: https://captv89.github.io
+      Value: https://profile.captv.ovh
     # - Icon: far fa-calendar-alt
     #   Name: Date of birth
     #   Value: 01.01.1111
@@ -30,11 +30,12 @@ BriefProfile:
   Sections:
     - Name: Stärken
       Items:
-        - Segeln & Navigation.
-        - Probleme lösen
-        - Rechenachten
-        - Teamspieler
-        - Gefahren
+        - Strategische Vision
+        - Funktionsübergreifende Führung
+        - Analytische Problemlösung
+        - Fachkompetenz
+        - Anpassungsfähigkeit
+        - Digitale Transformation
     - Name: Kompetenzen
       Items:
         - EAM (ERP) Lösung Produktinhaber für die maritime Industrie
@@ -58,11 +59,24 @@ Experience:
   Title: Erfahrung
   Icon: fas fa-briefcase
   Sections:
+    - Name: Produktmanagement Teamleiter - Flotte
+      Employer: Oldendorff Carriers
+      Website: https://www.oldendorff.com/
+      StartDate: 11/2024
+      EndDate: Heute
+      Details:
+        - Leitet die Flottenproduktmanagement-Funktion und definiert die Produktvision und -strategie zur Unterstützung der Flottenmanagement-Organisation
+        - Treibt die Digitalisierung kritischer Flottenmanagement-Abteilungen voran, mit Fokus auf Technologie zur Steigerung der Betriebseffizienz und strategischen Entscheidungsfindung
+        - Verwaltet komplexe Produktinitiativen zur Optimierung von Abteilungsprozessen, Reduzierung von Doppelarbeit und Erschließung von Leistungssteigerungen in der Flotte
+        - Arbeitet funktionsübergreifend mit Stakeholdern wie Schiffs-IT, IT-Betrieb, Neubau, Finanzen und verschiedenen Flottenmanagement-Abteilungen
+        - Fungiert als zentrale Schnittstelle und Fachexperte (SME), übersetzt Kenntnisse des Flottenbetriebs in umsetzbare Produkt-Roadmaps
+        - Verantwortlich für das End-to-End-Lifecycle-Management des Flotten-Software-Portfolios
+      Skills: ["Produktmanagement", "Flottenbetrieb", "Digitale Transformation", "Funktionsübergreifende Führung", "Strategische Planung", "Stakeholder-Management"]
     - Name: Produktmanager
       Employer: DNV
       Website: https://dnv.com
       StartDate: 12/2021
-      EndDate: Heute
+      EndDate: 10/2024
       Details:
         - Produktmanager für das Navigator -Produkt
         - KMU in Marine Business Applications
@@ -223,4 +237,4 @@ Contacts2:
       Value: +91-9994037989
     - Icon: fas fa-envelope
       Name: Email
-      Value: https://captv89.github.io/contact.html
+      Value: https://profile.captv.ovh/contact.html

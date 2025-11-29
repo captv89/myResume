@@ -1,148 +1,201 @@
 PersonalData:
-  Title: Personlig data
-  Icon: fas fa-user
-  Suffix: "R"
-  Name: Vishnu
-  CurrentWorkplace: Produktejer og emne Ekspert
-  Contacts:
-    - Icon: fas fa-user
-      Name: Navn
-      Value: Vishnu R
-    - Icon: fas fa-map-marker-alt
-      Name: Adresse
-      Value: Germany
-    # - Icon: fas fa-mobile-alt
-    #   Name: Phone
-    #   Value: +12 34567 89000
-    - Icon: fas fa-envelope
-      Name: Email
-      Value: s274ciaky@mozmail.com
-    - Icon: fas fa-globe
-      Name: Internet side
-      Value: https://captv89.github.io
-    # - Icon: far fa-calendar-alt
-    #   Name: Date of birth
-    #   Value: 01.01.1111
+    Title: Personlig data
+    Icon: fas fa-user
+    Suffix: 'R'
+    Name: Vishnu
+    CurrentWorkplace: Produktledelse Teamleder hos Oldendorff Carriers GmbH
+    Contacts:
+        - Icon: fas fa-user
+          Name: Navn
+          Value: Vishnu R
+        - Icon: fas fa-map-marker-alt
+          Name: Adresse
+          Value: Germany
+        # - Icon: fas fa-mobile-alt
+        #   Name: Phone
+        #   Value: +12 34567 89000
+        - Icon: fas fa-envelope
+          Name: Email
+          Value: s274ciaky@mozmail.com
+        - Icon: fas fa-globe
+          Name: Internet side
+          Value: https://profile.captv.ovh
+        # - Icon: far fa-calendar-alt
+        #   Name: Date of birth
+        #   Value: 01.01.1111
 
 BriefProfile:
-  Title: Kort profil
-  Icon: fas fa-th-list
-  Sections:
-    - Name: Styrker.
-      Items:
-        - Sejlads og navigation
-        - Problemløsning
-        - Computational Thinking
-        - Holdspiller
-        - Driven
-    - Name: Færdigheder
-      Items:
-        - EAM (ERP) Løsning Produktejer til maritime industri
-        - SMV i marine forretningsprogrammer
-        - Funktionel og teknisk viden i Dynamics 365 Business Central
-        - Projektleder for gennemførelse af forandring på tværs af flåden
-        - Devops & Automation Coordinator
-        - Data Analysis og Data Migration Consultant
-        - Klientpræsentation
-        - Produktets livscyklusstyring
-        - Teknisk dokumentation
-    - Name: Certificeringer.
-      Items:
-        - Maskinlæring (Stanford University)
-        - Certificeret etisk hacker (CEH)
-        - AWS IOT Prediktiv vedligeholdelse
-        - IBM AI Foundations for Business
-        - Business Intelligence Analyst
+    Title: Kort profil
+    Icon: fas fa-th-list
+    Sections:
+        - Name: Styrker
+          Items:
+              - Strategisk vision
+              - Tværfunktionel ledelse
+              - Analytisk problemløsning
+              - Domæneekspertise
+              - Tilpasningsevne
+              - Digital transformation
+        - Name: Færdigheder
+          Items:
+              - EAM (ERP) Løsning Produktejer til maritime industri
+              - SMV i marine forretningsprogrammer
+              - Funktionel og teknisk viden i Dynamics 365 Business Central
+              - Projektleder for gennemførelse af forandring på tværs af flåden
+              - Devops & Automation Coordinator
+              - Data Analysis og Data Migration Consultant
+              - Klientpræsentation
+              - Produktets livscyklusstyring
+              - Teknisk dokumentation
+        - Name: Certificeringer.
+          Items:
+              - Maskinlæring (Stanford University)
+              - Certificeret etisk hacker (CEH)
+              - AWS IOT Prediktiv vedligeholdelse
+              - IBM AI Foundations for Business
+              - Business Intelligence Analyst
 
 Experience:
-  Title: Erfaring
-  Icon: fas fa-briefcase
-  Sections:
-    - Name: Produktchef
-      Employer: DNV
-      Website: https://dnv.com
-      StartDate: 12/2021
-      EndDate: I dag
-      Details:
-        - Produktchef til navigatorproduktet
-        - SMV i marine forretningsapplikationer
-        - Funktionel og teknisk viden i OpenSource -sprog og rammer
-        - Produktlivscyklusstyring
-      Skills: ["Produktstyring", "Digital transformation", "Produktvision", "Markedsundersøgelse", "Analytiker", "Domain Expert"]
-    - Name: Produktejer.
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2021
-      EndDate: 11/2021
-      Details:
-        - EAM (ERP) Løsning Produktejer til maritime industri
-        - SMV i marine forretningsprogrammer
-        - Funktionel og teknisk viden i Dynamics 365 Business Central
-        - Produktets livscyklusstyring
-      Skills: ["Produktstyring", "Konfliktløsning", "Videnmægler", "Udvikler", "Analytiker", "Storyteller"]
-    - Name: Business Analyst + SME
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2020
-      EndDate: 03/2021
-      Details:
-        - Projektleder for implementering af forandring på tværs af flåden
-        - Devops & Automation Consultant
-        - Data Analysis og Data Migration Consultant
-        - Klientpræsentation
-        - Teknisk dokumentation
-      Skills: ["Kommunikation", "Krav indsamling", "Delegate Mål", "Stakeholder Management", "Time Management", "Dokumentation"]
-    - Name: Navigationsofficer.
-      Employer: Merchant Navy.
-      Website: https://en.wikipedia.org/wiki/Merchant_navy
-      StartDate: 01/2010
-      EndDate: 01/2020
-      Details:
-        - Holding af professionelle certifikater i
-        - 1. Brandbekæmpelse
-        - 2. Nødstøtte og lægehjælp
-        - 3. personlige overlevelsesteknikker
-        - 4. Se Keeping & Navigation
-        - 5. GMDSS Radio Communication
-        - Sejlede på bulkskibe og containerskibe
-        - Stærke viden om opretholdelse af fartøjet
-        - Rigtig forståelse af skibsoperationer
-      Skills: ["Navigation", "Manøvrering", "Cargo Management", "Ship Management", "Seamanship"]
+    Title: Erfaring
+    Icon: fas fa-briefcase
+    Sections:
+        - Name: Produktledelse Teamleder - Flåde
+          Employer: Oldendorff Carriers
+          Website: https://www.oldendorff.com/
+          StartDate: 11/2024
+          EndDate: I dag
+          Details:
+              - Leder flådeproduktledelsesfunktionen og definerer den overordnede produktvision og -strategi til støtte for flådeledelsesorganisationen
+              - Driver digitaliseringsrejsen for kritiske flådeledelsesafdelinger med fokus på teknologi til forbedring af driftseffektivitet
+              - Håndterer komplekse produktinitiativer rettet mod optimering af afdelingsprocesser og reduktion af dobbeltarbejde
+              - Arbejder tværfunktionelt med nøgleinteressenter herunder skips-IT, IT-drift, nybygning, finans og forskellige flådeledelsesafdelinger
+              - Fungerer som central kontaktperson og fagekspert (SME), oversætter dybdegående viden om flådedrift til handlingsrettede produktkøreplaner
+              - Ansvarlig for end-to-end livscyklusstyring af den flådefokuserede softwareportefølje
+          Skills:
+              [
+                  'Produktstyring',
+                  'Flådedrift',
+                  'Digital transformation',
+                  'Tværfunktionel ledelse',
+                  'Strategisk planlægning',
+                  'Interessentstyring',
+              ]
+        - Name: Produktchef
+          Employer: DNV
+          Website: https://dnv.com
+          StartDate: 12/2021
+          EndDate: 10/2024
+          Details:
+              - Produktchef til navigatorproduktet
+              - SMV i marine forretningsapplikationer
+              - Funktionel og teknisk viden i OpenSource -sprog og rammer
+              - Produktlivscyklusstyring
+          Skills:
+              [
+                  'Produktstyring',
+                  'Digital transformation',
+                  'Produktvision',
+                  'Markedsundersøgelse',
+                  'Analytiker',
+                  'Domain Expert',
+              ]
+        - Name: Produktejer.
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2021
+          EndDate: 11/2021
+          Details:
+              - EAM (ERP) Løsning Produktejer til maritime industri
+              - SMV i marine forretningsprogrammer
+              - Funktionel og teknisk viden i Dynamics 365 Business Central
+              - Produktets livscyklusstyring
+          Skills:
+              [
+                  'Produktstyring',
+                  'Konfliktløsning',
+                  'Videnmægler',
+                  'Udvikler',
+                  'Analytiker',
+                  'Storyteller',
+              ]
+        - Name: Business Analyst + SME
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2020
+          EndDate: 03/2021
+          Details:
+              - Projektleder for implementering af forandring på tværs af flåden
+              - Devops & Automation Consultant
+              - Data Analysis og Data Migration Consultant
+              - Klientpræsentation
+              - Teknisk dokumentation
+          Skills:
+              [
+                  'Kommunikation',
+                  'Krav indsamling',
+                  'Delegate Mål',
+                  'Stakeholder Management',
+                  'Time Management',
+                  'Dokumentation',
+              ]
+        - Name: Navigationsofficer.
+          Employer: Merchant Navy.
+          Website: https://en.wikipedia.org/wiki/Merchant_navy
+          StartDate: 01/2010
+          EndDate: 01/2020
+          Details:
+              - Holding af professionelle certifikater i
+              - 1. Brandbekæmpelse
+              - 2. Nødstøtte og lægehjælp
+              - 3. personlige overlevelsesteknikker
+              - 4. Se Keeping & Navigation
+              - 5. GMDSS Radio Communication
+              - Sejlede på bulkskibe og containerskibe
+              - Stærke viden om opretholdelse af fartøjet
+              - Rigtig forståelse af skibsoperationer
+          Skills:
+              [
+                  'Navigation',
+                  'Manøvrering',
+                  'Cargo Management',
+                  'Ship Management',
+                  'Seamanship',
+              ]
 
 AcademicEducation:
-  Title: Akademisk uddannelse.
-  Icon: fas fa-university
-  Sections:
-    - Name: Nautisk videnskab
-      Organisation: AMET University
-      Website: https://www.example.com
-      StartDate: 2007
-      EndDate: 2010
-      Qualification: B.Sc Nautical Science
-      Score: CGPA 7.96 
+    Title: Akademisk uddannelse.
+    Icon: fas fa-university
+    Sections:
+        - Name: Nautisk videnskab
+          Organisation: AMET University
+          Website: https://www.example.com
+          StartDate: 2007
+          EndDate: 2010
+          Qualification: B.Sc Nautical Science
+          Score: CGPA 7.96
 
 ProfessionalTraining:
-  Title: Professionel træning
-  Icon: fas fa-road
-  Sections:
-    - Name: Post Sea Certifications.
-      Organisation: Indian Maritime University
-      Website: https://www.imu.edu.in/
-      StartDate: 2015
-      EndDate: 2015
-      Qualification: Chief Mates FG
+    Title: Professionel træning
+    Icon: fas fa-road
+    Sections:
+        - Name: Post Sea Certifications.
+          Organisation: Indian Maritime University
+          Website: https://www.imu.edu.in/
+          StartDate: 2015
+          EndDate: 2015
+          Qualification: Chief Mates FG
 
 SchoolEducation:
-  Title: Skoleundervisning
-  Icon: fas fa-school
-  Sections:
-    - Name: Højere gymnasium (12th)
-      Organisation: Kendriya Vidyalaya
-      Website: https://kvsangathan.nic.in/
-      StartDate: 2006
-      EndDate: 2007
-      Qualification: Med fysik, kemi, matematik og datalogi
-      Score: Total 84%
+    Title: Skoleundervisning
+    Icon: fas fa-school
+    Sections:
+        - Name: Højere gymnasium (12th)
+          Organisation: Kendriya Vidyalaya
+          Website: https://kvsangathan.nic.in/
+          StartDate: 2006
+          EndDate: 2007
+          Qualification: Med fysik, kemi, matematik og datalogi
+          Score: Total 84%
 
 # FurtherEducation:
 #   Title:Videreuddannelse
@@ -156,26 +209,26 @@ SchoolEducation:
 #       Qualification: PersonalTrainer A-License
 
 Diplomas:
-  Title: Certificeringer
-  Icon: fas fa-certificate
-  Items:
-    - 2021 - Stanford University - Machine Learning
-    - 2020 - Coursera - Git & Github
-    - 2020 - AWS - AWS IoT, Predictive Maintenance
-    - 2020 - IBM - The AI Ladder, A Framework for Deploying AI in your Enterprise
-    - 2020 - IBM - Introduction to Data Science
-    - 2020 - IBM - Introduction to AI
-    - 2020 - IBM - AI Foundations for Business
-    - 2021 - Udemy - Business Intelligence Analyst
+    Title: Certificeringer
+    Icon: fas fa-certificate
+    Items:
+        - 2021 - Stanford University - Machine Learning
+        - 2020 - Coursera - Git & Github
+        - 2020 - AWS - AWS IoT, Predictive Maintenance
+        - 2020 - IBM - The AI Ladder, A Framework for Deploying AI in your Enterprise
+        - 2020 - IBM - Introduction to Data Science
+        - 2020 - IBM - Introduction to AI
+        - 2020 - IBM - AI Foundations for Business
+        - 2021 - Udemy - Business Intelligence Analyst
 
 Languages:
-  Title: Sprog
-  Icon: fas fa-language
-  Items:
-    - Malayalam (indfødte)
-    - engelsk (fuld faglig færdighed)
-    - Hindi (fuld faglig færdighed)
-    - Tamil (fuld faglig færdighed)
+    Title: Sprog
+    Icon: fas fa-language
+    Items:
+        - Malayalam (indfødte)
+        - engelsk (fuld faglig færdighed)
+        - Hindi (fuld faglig færdighed)
+        - Tamil (fuld faglig færdighed)
 
 # Organizations:
 #   Title: Organizations
@@ -185,42 +238,42 @@ Languages:
 #     - Dog school B
 
 Skills:
-  Title: Færdigheder
-  Icon: fas fa-sliders-h
-  Items:
-    - Tried & Experienced- Web Dev, Networking & Security, Data Science, IoT, ML & AI
-    - Database- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
-    - Languages- Python, JS, Go, Dart & PHP
-    - Scripting- Bash, Powershell
-    - Framework- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
-    - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
-    - Services- IBM Watson, AWS, Azure & Dynamics 365
-    - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
-    - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
+    Title: Færdigheder
+    Icon: fas fa-sliders-h
+    Items:
+        - Tried & Experienced- Web Dev, Networking & Security, Data Science, IoT, ML & AI
+        - Database- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
+        - Languages- Python, JS, Go, Dart & PHP
+        - Scripting- Bash, Powershell
+        - Framework- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
+        - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
+        - Services- IBM Watson, AWS, Azure & Dynamics 365
+        - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
+        - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
 
 Interests:
-  Title: Interesser.
-  Icon: fas fa-chess
-  Items:
-    - Fotografering
-    - Fodbold
-    - Film.
-    - Foodie.
-    - Musik
+    Title: Interesser.
+    Icon: fas fa-chess
+    Items:
+        - Fotografering
+        - Fodbold
+        - Film.
+        - Foodie.
+        - Musik
 
 Contacts2:
-  Title: Kontakt
-  Icon: fas fa-address-card
-  Contacts:
-    - Icon: fas fa-user
-      Name: Navn
-      Value: Vishnu Raveendranathan
-    - Icon: fas fa-map-marker-alt
-      Name: Adresse
-      Value: Germany
-    - Icon: fas fa-mobile-alt
-      Name: telefon
-      Value: +91-9994037989
-    - Icon: fas fa-envelope
-      Name: Email.
-      Value: https://captv89.github.io/contact.html
+    Title: Kontakt
+    Icon: fas fa-address-card
+    Contacts:
+        - Icon: fas fa-user
+          Name: Navn
+          Value: Vishnu Raveendranathan
+        - Icon: fas fa-map-marker-alt
+          Name: Adresse
+          Value: Germany
+        - Icon: fas fa-mobile-alt
+          Name: telefon
+          Value: +91-9994037989
+        - Icon: fas fa-envelope
+          Name: Email.
+          Value: https://profile.captv.ovh/contact.html

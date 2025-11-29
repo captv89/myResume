@@ -3,7 +3,7 @@ PersonalData:
     Icon: fas fa-user
     Suffix: 'R'
     Name: Vishnu
-    CurrentWorkplace: Tuotteen omistaja ja aihe asiantuntija
+    CurrentWorkplace: Tuotehallinnan tiiminvetäjä Oldendorff Carriers GmbH:ssa
     Contacts:
         - Icon: fas fa-user
           Name: Nimi
@@ -19,7 +19,7 @@ PersonalData:
           Value: s274ciaky@mozmail.com
         - Icon: fas fa-globe
           Name: Verkkosivusto
-          Value: https://captv89.github.io
+          Value: https://profile.captv.ovh
         # - Icon: far fa-calendar-alt
         #   Name: Date of birth
         #   Value: 01.01.1111
@@ -30,11 +30,12 @@ BriefProfile:
     Sections:
         - Name: Vahvuudet
           Items:
-              - Purjehdus ja navigointi
-              - Ongelmanratkaisu
-              - Laskennallinen ajattelu
-              - Joukkuepelaaja
-              - ajettu
+              - Strateginen visio
+              - Poikkitoiminnallinen johtaminen
+              - Analyyttinen ongelmanratkaisu
+              - Toimialaosaaminen
+              - Sopeutumiskyky
+              - Digitaalinen muutos
         - Name: Taidot
           Items:
               - EAM (ERP) Ratkaisu Tuotteen omistaja merenkulun teollisuudelle
@@ -58,11 +59,32 @@ Experience:
     Title: Kokea
     Icon: fas fa-briefcase
     Sections:
+        - Name: Tuotehallinnan tiiminvetäjä - Laivasto
+          Employer: Oldendorff Carriers
+          Website: https://www.oldendorff.com/
+          StartDate: 11/2024
+          EndDate: Tänään
+          Details:
+              - Johtaa laivaston tuotehallintafunktiota ja määrittelee tuotevision ja -strategian laivastohallinta-organisaation tueksi
+              - Edistää kriittisten laivastohallinta-osastojen digitalisaatiomatkaa keskittyen teknologian hyödyntämiseen toiminnan tehostamiseksi
+              - Hallinnoi monimutkaisia tuotealoitteita osastoprosessien optimoimiseksi ja päällekkäisen työn vähentämiseksi
+              - Työskentelee poikkitoiminnallisesti avainasemassa olevien sidosryhmien kanssa mukaan lukien laiva-IT, IT-toiminnot, uudisrakentaminen ja talous
+              - Toimii keskeisenä yhteyshenkilönä ja aiheasiantuntijana (SME), kääntäen syvällisen laivastotoiminnan tuntemuksen toteutettaviksi tuotetiekartoiksi
+              - Vastaa laivastokeskeisen ohjelmistoportfolion kokonaisvaltaisesta elinkaarihallinnasta
+          Skills:
+              [
+                  'Tuotenhallinta',
+                  'Laivastotoiminnot',
+                  'Digitaalinen muutos',
+                  'Poikkitoiminnallinen johtaminen',
+                  'Strateginen suunnittelu',
+                  'Sidosryhmähallinta',
+              ]
         - Name: Tuotepäällikkö
           Employer: DNV
           Website: https://dnv.com
           StartDate: 12/2021
-          EndDate: Tänään
+          EndDate: 10/2024
           Details:
               - Navigator -tuotteen tuotepäällikkö
               - pk -yritys meriliiketoiminnoissa
@@ -254,4 +276,4 @@ Contacts2:
           Value: +91-9994037989
         - Icon: fas fa-envelope
           Name: Sähköposti
-          Value: https://captv89.github.io/contact.html
+          Value: https://profile.captv.ovh/contact.html

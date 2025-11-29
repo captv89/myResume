@@ -1,148 +1,201 @@
 PersonalData:
-  Title: വ്യക്തിപരമായ വിവരങ്ങള്
-  Icon: fas fa-user
-  Suffix: "R"
-  Name: വിഷ്ണു
-  CurrentWorkplace: ഉൽപ്പന്ന മാനേജർ
-  Contacts:
-    - Icon: fas fa-user
-      Name: പേര്
-      Value: വിഷ്ണു R
-    - Icon: fas fa-map-marker-alt
-      Name: സ്ഥാപിക്കല്
-      Value: ജർമ്മനി
-    # - Icon: fas fa-mobile-alt
-    #   Name: Phone
-    #   Value: +12 34567 89000
-    - Icon: fas fa-envelope
-      Name: ഇമെയിൽ
-      Value: s274ciaky@mozmail.com
-    - Icon: fas fa-globe
-      Name: വെബ്സൈറ്റ്
-      Value: https://captv89.github.io
-    # - Icon: far fa-calendar-alt
-    #   Name: Date of birth
-    #   Value: 01.01.1111
+    Title: വ്യക്തിപരമായ വിവരങ്ങള്
+    Icon: fas fa-user
+    Suffix: 'R'
+    Name: വിഷ്ണു
+    CurrentWorkplace: Oldendorff Carriers GmbH-ൽ പ്രൊഡക്ട് മാനേജ്മെന്റ് ടീം ലീഡ്
+    Contacts:
+        - Icon: fas fa-user
+          Name: പേര്
+          Value: വിഷ്ണു R
+        - Icon: fas fa-map-marker-alt
+          Name: സ്ഥാപിക്കല്
+          Value: ജർമ്മനി
+        # - Icon: fas fa-mobile-alt
+        #   Name: Phone
+        #   Value: +12 34567 89000
+        - Icon: fas fa-envelope
+          Name: ഇമെയിൽ
+          Value: s274ciaky@mozmail.com
+        - Icon: fas fa-globe
+          Name: വെബ്സൈറ്റ്
+          Value: https://profile.captv.ovh
+        # - Icon: far fa-calendar-alt
+        #   Name: Date of birth
+        #   Value: 01.01.1111
 
 BriefProfile:
-  Title: ഹ്രസ്വ പ്രൊഫൈൽ
-  Icon: fas fa-th-list
-  Sections:
-    - Name: ശക്തി
-      Items:
-        - കപ്പലോട്ടം & നാവിഗേഷൻ
-        - പ്രശ്നപരിഹാരം
-        - കമ്പ്യൂട്ടേഷണൽ ചിന്താഗതി
-        - കൂട്ടു കളിക്കാരന്
-        - ഓടിച്ചു
-    - Name: കഴിവുക
-      Items:
-        - മാരിടൈം വ്യവസായത്തിനായി അയൽപക്ഷം
-        - മറൈൻ ബിസിനസ്സ് അപ്ലിക്കേഷനുകളിൽ SME
-        - ഡൈനാമിക്സിലെ ഫംഗ്ഷണൽ & സാങ്കേതിക അറിവ് 365 ബിസിനസ് സെൻട്രൽ
-        - കപ്പലിലുടനീളം മാറ്റം വരുത്തുന്നതിനുള്ള പ്രോജക്റ്റ് മാനേജർ
-        - DEVOPS & ഓട്ടോമേഷൻ കോർഡിനേറ്റർ
-        - ഡാറ്റ വിശകലനവും ഡാറ്റ മൈഗ്രേഷൻ കൺസൾട്ടന്റും
-        - ക്ലയന്റ് അവതരണം
-        - ഉൽപ്പന്ന ലൈഫ് സൈക്കിൾ മാനേജുമെന്റ്
-        - സാങ്കേതിക ഡോക്യുമെന്റേഷൻ
-    - Name: സർട്ടിഫിക്കേഷനുകൾ
-      Items:
-        - മെഷീൻ ലേണിംഗ് (സ്റ്റാൻഫോർഡ് യൂണിവേഴ്സിറ്റി)
-        - സർട്ടിഫൈഡ് നൈതിക ഹാക്കർ (സിഇഎച്ച്)
-        - Aws Iot പ്രവചന പരിപാലനം
-        - ബിസിനസിനായുള്ള ഐബിഎം ഐ ഫ Foundations ണ്ട്
-        - ബിസിനസ് ഇന്റലിജൻസ് അനലിസ്റ്റ്
+    Title: ഹ്രസ്വ പ്രൊഫൈൽ
+    Icon: fas fa-th-list
+    Sections:
+        - Name: ശക്തി
+          Items:
+              - സ്ട്രാറ്റജിക് വിഷൻ
+              - ക്രോസ്-ഫംഗ്ഷണൽ ലീഡർഷിപ്പ്
+              - അനലിറ്റിക്കൽ പ്രശ്നപരിഹാരം
+              - ഡൊമെയ്ൻ വൈദഗ്ധ്യം
+              - അനുകൂലനക്ഷമത
+              - ഡിജിറ്റൽ പരിവർത്തനം
+        - Name: കഴിവുക
+          Items:
+              - മാരിടൈം വ്യവസായത്തിനായി അയൽപക്ഷം
+              - മറൈൻ ബിസിനസ്സ് അപ്ലിക്കേഷനുകളിൽ SME
+              - ഡൈനാമിക്സിലെ ഫംഗ്ഷണൽ & സാങ്കേതിക അറിവ് 365 ബിസിനസ് സെൻട്രൽ
+              - കപ്പലിലുടനീളം മാറ്റം വരുത്തുന്നതിനുള്ള പ്രോജക്റ്റ് മാനേജർ
+              - DEVOPS & ഓട്ടോമേഷൻ കോർഡിനേറ്റർ
+              - ഡാറ്റ വിശകലനവും ഡാറ്റ മൈഗ്രേഷൻ കൺസൾട്ടന്റും
+              - ക്ലയന്റ് അവതരണം
+              - ഉൽപ്പന്ന ലൈഫ് സൈക്കിൾ മാനേജുമെന്റ്
+              - സാങ്കേതിക ഡോക്യുമെന്റേഷൻ
+        - Name: സർട്ടിഫിക്കേഷനുകൾ
+          Items:
+              - മെഷീൻ ലേണിംഗ് (സ്റ്റാൻഫോർഡ് യൂണിവേഴ്സിറ്റി)
+              - സർട്ടിഫൈഡ് നൈതിക ഹാക്കർ (സിഇഎച്ച്)
+              - Aws Iot പ്രവചന പരിപാലനം
+              - ബിസിനസിനായുള്ള ഐബിഎം ഐ ഫ Foundations ണ്ട്
+              - ബിസിനസ് ഇന്റലിജൻസ് അനലിസ്റ്റ്
 
 Experience:
-  Title: പരിചയം
-  Icon: fas fa-briefcase
-  Sections:
-    - Name: ഉൽപ്പന്ന മാനേജർ
-      Employer: DNV
-      Website: https://dnv.com
-      StartDate: 12/2021
-      EndDate: ഇന്നേദിവസം
-      Details:
-        - നാവിഗേറ്റർ ഉൽപ്പന്നത്തിനായുള്ള ഉൽപ്പന്ന മാനേജർ
-        - മറൈൻ ബിസിനസ്സ് അപ്ലിക്കേഷനുകളിൽ SME
-        - ഓപ്പൺസോഴ്സ് ഭാഷകളിലും ചട്ടക്കൂടുകളിലും പ്രവർത്തനക്ഷമവും സാങ്കേതികവുമായ അറിവ്
-        - ഉൽപ്പന്ന ലൈഫ് സൈക്കിൾ മാനേജുമെന്റ്
-      Skills: ["പ്രൊഡക്റ്റ് മാനേജ്മെന്റ്", "ഡിജിറ്റൽ പരിവർത്തനം", "ഡിജിറ്റൽ ഇന്റർഫോർഷൻ", "മാർക്കറ്റ് സ്റ്റഡി", "അനലിസ്റ്റ്", "ഡൊമെയ്ൻ വിദഗ്ദ്ധൻ"]
-    - Name: ഉൽപ്പന്ന ഉടമ
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2021
-      EndDate: 11/2021
-      Details:
-        - മാരിടൈം വ്യവസായത്തിനായി അയൽപക്ഷം
-        - മറൈൻ ബിസിനസ്സ് അപ്ലിക്കേഷനുകളിൽ SME
-        - ഡൈനാമിക്സിലെ ഫംഗ്ഷണൽ & സാങ്കേതിക അറിവ് 365 ബിസിനസ് സെൻട്രൽ
-        - ഉൽപ്പന്ന ലൈഫ് സൈക്കിൾ മാനേജുമെന്റ്
-      Skills: ["പ്രൊഡക്റ്റ് മാനേജ്മെന്റ്", "പൊരുത്തക്കേട് പരിഹരിക്കുന്നു", "വിജ്ഞാന ബ്രോക്കർ", "ഡവലപ്പർ", "അനലിസ്റ്റ്", "കഥാകാരം"]
-    - Name: ബിസിനസ്സ് അനലിസ്റ്റ് + SME
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2020
-      EndDate: 03/2021
-      Details:
-        - കപ്പലിലുടനീളം മാറ്റം വരുത്തുന്നതിനുള്ള പ്രോജക്ട് മാനേജർ
-        - ഡിവികൾ & ഓട്ടോമേഷൻ കൺസൾട്ടന്റ്
-        - ഡാറ്റ വിശകലനവും ഡാറ്റ മൈഗ്രേഷൻ കൺസൾട്ടന്റും
-        - ക്ലയന്റ് അവതരണം
-        - സാങ്കേതിക ഡോക്യുമെന്റേഷൻ
-      Skills: ["ആശയവിനിമയം", "ആവശ്യം", "ലക്ഷ്യങ്ങൾ ഏറ്റെടുക്കൽ", "സ്റ്റേക്ക്ഹോൾഡർ മാനേജുമെന്റ്", "സമയ മാനേജുമെന്റ്", "ഡോക്യുമെന്ററിംഗ്"]
-    - Name: നാവിഗേഷൻ ഓഫീസർ
-      Employer: വ്യാപാരി നേവി
-      Website: https://en.wikipedia.org/wiki/Merchant_navy
-      StartDate: 01/2010
-      EndDate: 01/2020
-      Details:
-        - പ്രൊഫഷണൽ സർട്ടിഫിക്കറ്റുകൾ കൈവശം വയ്ക്കുന്നു
-        - 1. ഫയർ പോരാട്ടം
-        - 2. അടിയന്തര പ്രഥമശുശ്രൂഷ & മെഡിക്കൽ പരിചരണം
-        - 3. വ്യക്തിഗത അതിജീവന വിദ്യകൾ
-        - 4. സൂക്ഷിക്കുന്നതും നാവിഗേഷനും കാണുക
-        - 5. ജിഎംഡിഎസ് റേഡിയോ ആശയവിനിമയം
-        - ബൾക്ക് കാരിയറുകളിലും കണ്ടെയ്നർ കപ്പലുകളിലും കപ്പൽ കയറി
-        - പാത്ര പരിപാലനത്തെയും മാനേജുമെന്റിനെയും കുറിച്ചുള്ള ശക്തമായ അറിവ്
-        - കപ്പൽ പ്രവർത്തനങ്ങളെക്കുറിച്ച് വ്യക്തമായ ധാരണ
-      Skills: ["നാവിഗേഷൻ", "കുസൃതി", "കാർഗോ മാനേജ്മെന്റ്", "കപ്പൽ മാനേജ്മെന്റ്", "സീമൻസ്ഷൻ"]
+    Title: പരിചയം
+    Icon: fas fa-briefcase
+    Sections:
+        - Name: പ്രൊഡക്റ്റ് മാനേജ്മെന്റ് ടീം ലീഡ് - ഫ്ലീറ്റ്
+          Employer: Oldendorff Carriers
+          Website: https://www.oldendorff.com/
+          StartDate: 11/2024
+          EndDate: ഇന്നേദിവസം
+          Details:
+              - ഫ്ലീറ്റ് പ്രൊഡക്റ്റ് മാനേജ്മെന്റ് ഫംഗ്ഷൻ നയിക്കുന്നു, ഫ്ലീറ്റ് മാനേജ്മെന്റ് ഓർഗനൈസേഷന്റെ ആവശ്യങ്ങളെ പിന്തുണയ്ക്കാൻ ഉൽപ്പന്ന വിഷൻ, സ്ട്രാറ്റജി നിർവചിക്കുന്നു
+              - നിർണായക ഫ്ലീറ്റ് മാനേജ്മെന്റ് ഡിപ്പാർട്ട്മെന്റുകളുടെ ഡിജിറ്റലൈസേഷൻ യാത്ര നയിക്കുന്നു, പ്രവർത്തന കാര്യക്ഷമത വർദ്ധിപ്പിക്കാൻ സാങ്കേതികവിദ്യ പ്രയോജനപ്പെടുത്തുന്നതിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നു
+              - ഡിപ്പാർട്ട്മെന്റൽ പ്രോസസുകൾ ഒപ്റ്റിമൈസ് ചെയ്യാനും ഡ്യൂപ്ലിക്കേഷൻ കുറയ്ക്കാനും ലക്ഷ്യമിട്ടുള്ള സങ്കീർണ്ണമായ ഉൽപ്പന്ന സംരംഭങ്ങൾ കൈകാര്യം ചെയ്യുന്നു
+              - വെസ്സൽ ഐടി, ഐടി ഓപ്പറേഷൻസ്, ന്യൂ ബിൽഡിംഗ്, ഫിനാൻസ് എന്നിവയുൾപ്പെടെ പ്രധാന പങ്കാളികളുമായി ക്രോസ്-ഫംഗ്ഷണലായി പ്രവർത്തിക്കുന്നു
+              - ഫ്ലീറ്റ് ഓപ്പറേഷൻസിന്റെ ആഴത്തിലുള്ള അറിവ് പ്രവർത്തനക്ഷമമായ ഉൽപ്പന്ന റോഡ്മാപ്പുകളിലേക്ക് വിവർത്തനം ചെയ്യുന്ന കേന്ദ്ര ലൈസൺ, SME ആയി പ്രവർത്തിക്കുന്നു
+              - ഫ്ലീറ്റ്-ഫോക്കസ്ഡ് സോഫ്റ്റ്വെയർ പോർട്ട്ഫോളിയോയുടെ എൻഡ്-ടു-എൻഡ് ലൈഫ്സൈക്കിൾ മാനേജ്മെന്റിന് ഉത്തരവാദി
+          Skills:
+              [
+                  'പ്രൊഡക്റ്റ് മാനേജ്മെന്റ്',
+                  'ഫ്ലീറ്റ് ഓപ്പറേഷൻസ്',
+                  'ഡിജിറ്റൽ പരിവർത്തനം',
+                  'ക്രോസ്-ഫംഗ്ഷണൽ ലീഡർഷിപ്പ്',
+                  'സ്ട്രാറ്റജിക് പ്ലാനിംഗ്',
+                  'സ്റ്റേക്ക്ഹോൾഡർ മാനേജ്മെന്റ്',
+              ]
+        - Name: ഉൽപ്പന്ന മാനേജർ
+          Employer: DNV
+          Website: https://dnv.com
+          StartDate: 12/2021
+          EndDate: 10/2024
+          Details:
+              - നാവിഗേറ്റർ ഉൽപ്പന്നത്തിനായുള്ള ഉൽപ്പന്ന മാനേജർ
+              - മറൈൻ ബിസിനസ്സ് അപ്ലിക്കേഷനുകളിൽ SME
+              - ഓപ്പൺസോഴ്സ് ഭാഷകളിലും ചട്ടക്കൂടുകളിലും പ്രവർത്തനക്ഷമവും സാങ്കേതികവുമായ അറിവ്
+              - ഉൽപ്പന്ന ലൈഫ് സൈക്കിൾ മാനേജുമെന്റ്
+          Skills:
+              [
+                  'പ്രൊഡക്റ്റ് മാനേജ്മെന്റ്',
+                  'ഡിജിറ്റൽ പരിവർത്തനം',
+                  'ഡിജിറ്റൽ ഇന്റർഫോർഷൻ',
+                  'മാർക്കറ്റ് സ്റ്റഡി',
+                  'അനലിസ്റ്റ്',
+                  'ഡൊമെയ്ൻ വിദഗ്ദ്ധൻ',
+              ]
+        - Name: ഉൽപ്പന്ന ഉടമ
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2021
+          EndDate: 11/2021
+          Details:
+              - മാരിടൈം വ്യവസായത്തിനായി അയൽപക്ഷം
+              - മറൈൻ ബിസിനസ്സ് അപ്ലിക്കേഷനുകളിൽ SME
+              - ഡൈനാമിക്സിലെ ഫംഗ്ഷണൽ & സാങ്കേതിക അറിവ് 365 ബിസിനസ് സെൻട്രൽ
+              - ഉൽപ്പന്ന ലൈഫ് സൈക്കിൾ മാനേജുമെന്റ്
+          Skills:
+              [
+                  'പ്രൊഡക്റ്റ് മാനേജ്മെന്റ്',
+                  'പൊരുത്തക്കേട് പരിഹരിക്കുന്നു',
+                  'വിജ്ഞാന ബ്രോക്കർ',
+                  'ഡവലപ്പർ',
+                  'അനലിസ്റ്റ്',
+                  'കഥാകാരം',
+              ]
+        - Name: ബിസിനസ്സ് അനലിസ്റ്റ് + SME
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2020
+          EndDate: 03/2021
+          Details:
+              - കപ്പലിലുടനീളം മാറ്റം വരുത്തുന്നതിനുള്ള പ്രോജക്ട് മാനേജർ
+              - ഡിവികൾ & ഓട്ടോമേഷൻ കൺസൾട്ടന്റ്
+              - ഡാറ്റ വിശകലനവും ഡാറ്റ മൈഗ്രേഷൻ കൺസൾട്ടന്റും
+              - ക്ലയന്റ് അവതരണം
+              - സാങ്കേതിക ഡോക്യുമെന്റേഷൻ
+          Skills:
+              [
+                  'ആശയവിനിമയം',
+                  'ആവശ്യം',
+                  'ലക്ഷ്യങ്ങൾ ഏറ്റെടുക്കൽ',
+                  'സ്റ്റേക്ക്ഹോൾഡർ മാനേജുമെന്റ്',
+                  'സമയ മാനേജുമെന്റ്',
+                  'ഡോക്യുമെന്ററിംഗ്',
+              ]
+        - Name: നാവിഗേഷൻ ഓഫീസർ
+          Employer: വ്യാപാരി നേവി
+          Website: https://en.wikipedia.org/wiki/Merchant_navy
+          StartDate: 01/2010
+          EndDate: 01/2020
+          Details:
+              - പ്രൊഫഷണൽ സർട്ടിഫിക്കറ്റുകൾ കൈവശം വയ്ക്കുന്നു
+              - 1. ഫയർ പോരാട്ടം
+              - 2. അടിയന്തര പ്രഥമശുശ്രൂഷ & മെഡിക്കൽ പരിചരണം
+              - 3. വ്യക്തിഗത അതിജീവന വിദ്യകൾ
+              - 4. സൂക്ഷിക്കുന്നതും നാവിഗേഷനും കാണുക
+              - 5. ജിഎംഡിഎസ് റേഡിയോ ആശയവിനിമയം
+              - ബൾക്ക് കാരിയറുകളിലും കണ്ടെയ്നർ കപ്പലുകളിലും കപ്പൽ കയറി
+              - പാത്ര പരിപാലനത്തെയും മാനേജുമെന്റിനെയും കുറിച്ചുള്ള ശക്തമായ അറിവ്
+              - കപ്പൽ പ്രവർത്തനങ്ങളെക്കുറിച്ച് വ്യക്തമായ ധാരണ
+          Skills:
+              [
+                  'നാവിഗേഷൻ',
+                  'കുസൃതി',
+                  'കാർഗോ മാനേജ്മെന്റ്',
+                  'കപ്പൽ മാനേജ്മെന്റ്',
+                  'സീമൻസ്ഷൻ',
+              ]
 
 AcademicEducation:
-  Title: അക്കാദമിക് വിദ്യാഭ്യാസം
-  Icon: fas fa-university
-  Sections:
-    - Name: നോട്ടിക്കൽ സയൻസ്
-      Organisation: AMET University
-      Website: https://www.example.com
-      StartDate: 2007
-      EndDate: 2010
-      Qualification: B.Sc നോട്ടിക്കൽ സയൻസ്
-      Score: CGPA 7.96 
+    Title: അക്കാദമിക് വിദ്യാഭ്യാസം
+    Icon: fas fa-university
+    Sections:
+        - Name: നോട്ടിക്കൽ സയൻസ്
+          Organisation: AMET University
+          Website: https://www.example.com
+          StartDate: 2007
+          EndDate: 2010
+          Qualification: B.Sc നോട്ടിക്കൽ സയൻസ്
+          Score: CGPA 7.96
 
 ProfessionalTraining:
-  Title: തൊഴിലദിഷ്ടിത പരിശീലനം
-  Icon: fas fa-road
-  Sections:
-    - Name: കടൽ സർട്ടിഫിക്കേഷനുകൾ പോസ്റ്റുചെയ്യുക
-      Organisation: ഇന്ത്യൻ മാരിടൈം സർവകലാശാല
-      Website: https://www.imu.edu.in/
-      StartDate: 2015
-      EndDate: 2015
-      Qualification: Chief Mates FG
+    Title: തൊഴിലദിഷ്ടിത പരിശീലനം
+    Icon: fas fa-road
+    Sections:
+        - Name: കടൽ സർട്ടിഫിക്കേഷനുകൾ പോസ്റ്റുചെയ്യുക
+          Organisation: ഇന്ത്യൻ മാരിടൈം സർവകലാശാല
+          Website: https://www.imu.edu.in/
+          StartDate: 2015
+          EndDate: 2015
+          Qualification: Chief Mates FG
 
 SchoolEducation:
-  Title: സ്കൂൾ വിദ്യാഭ്യാസം
-  Icon: fas fa-school
-  Sections:
-    - Name: ഹയർ സെക്കൻഡറി സ്കൂൾ (12th)
-      Organisation: സെൻട്രൽ സ്കൂൾ
-      Website: https://kvsangathan.nic.in/
-      StartDate: 2006
-      EndDate: 2007
-      Qualification: ഫിസിക്സ്, കെമിസ്ട്രി, കണക്ക്, കമ്പ്യൂട്ടർ സയൻസ് എന്നിവ ഉപയോഗിച്ച്
-      Score: Total 84%
+    Title: സ്കൂൾ വിദ്യാഭ്യാസം
+    Icon: fas fa-school
+    Sections:
+        - Name: ഹയർ സെക്കൻഡറി സ്കൂൾ (12th)
+          Organisation: സെൻട്രൽ സ്കൂൾ
+          Website: https://kvsangathan.nic.in/
+          StartDate: 2006
+          EndDate: 2007
+          Qualification: ഫിസിക്സ്, കെമിസ്ട്രി, കണക്ക്, കമ്പ്യൂട്ടർ സയൻസ് എന്നിവ ഉപയോഗിച്ച്
+          Score: Total 84%
 
 # FurtherEducation:
 #   Title: Further Education
@@ -156,30 +209,30 @@ SchoolEducation:
 #       Qualification: PersonalTrainer A-License
 
 Diplomas:
-  Title: സർട്ടിഫിക്കേഷനുകൾ
-  Icon: fas fa-certificate
-  Items:
-    - 2022 - സുരക്ഷാ യാത്ര - ഗ്രീൻ ബെൽറ്റ്
-    - 2022 - സുരക്ഷാ യാത്ര - മഞ്ഞ ബെൽറ്റ്
-    - 2022 - സുരക്ഷാ യാത്ര - വൈറ്റ് ബെൽറ്റ്
-    - 2021 - സ്റ്റാൻഫോർഡ് സർവകലാശാല - മെഷീൻ പഠനം
-    - 2020 - കോർസെറ - ജിത്, ജിതുബ്
-    - 2020 - aws - aws iot, പ്രവചനാശിനി അറ്റകുറ്റപ്പണി
-    - 2020 - ഐ.ബി.എം - എഐ ഗോവണി, നിങ്ങളുടെ എന്റർപ്രൈസിൽ AI നെ വിന്യസിക്കുന്നതിനുള്ള ഒരു ചട്ടക്കൂട്
-    - 2020 - ഐബിഎം - ഡാറ്റ സയൻസിന്റെ ആമുഖം
-    - 2020 - ഐ.ബി.എം - AI- യുടെ ആമുഖം
-    - 2020 - ഐബിഎം - ബിസിനസ്സിനായുള്ള AI ഫൗണ്ടേഷനുകൾ
-    - 2021 - ഉഡെമി - ബിസിനസ് ഇന്റലിജൻസ് അനലിസ്റ്റ്
+    Title: സർട്ടിഫിക്കേഷനുകൾ
+    Icon: fas fa-certificate
+    Items:
+        - 2022 - സുരക്ഷാ യാത്ര - ഗ്രീൻ ബെൽറ്റ്
+        - 2022 - സുരക്ഷാ യാത്ര - മഞ്ഞ ബെൽറ്റ്
+        - 2022 - സുരക്ഷാ യാത്ര - വൈറ്റ് ബെൽറ്റ്
+        - 2021 - സ്റ്റാൻഫോർഡ് സർവകലാശാല - മെഷീൻ പഠനം
+        - 2020 - കോർസെറ - ജിത്, ജിതുബ്
+        - 2020 - aws - aws iot, പ്രവചനാശിനി അറ്റകുറ്റപ്പണി
+        - 2020 - ഐ.ബി.എം - എഐ ഗോവണി, നിങ്ങളുടെ എന്റർപ്രൈസിൽ AI നെ വിന്യസിക്കുന്നതിനുള്ള ഒരു ചട്ടക്കൂട്
+        - 2020 - ഐബിഎം - ഡാറ്റ സയൻസിന്റെ ആമുഖം
+        - 2020 - ഐ.ബി.എം - AI- യുടെ ആമുഖം
+        - 2020 - ഐബിഎം - ബിസിനസ്സിനായുള്ള AI ഫൗണ്ടേഷനുകൾ
+        - 2021 - ഉഡെമി - ബിസിനസ് ഇന്റലിജൻസ് അനലിസ്റ്റ്
 
 Languages:
-  Title: ഭാഷകൾ
-  Icon: fas fa-language
-  Items:
-    - മലയാളം (നേറ്റീവ്)
-    - ഇംഗ്ലീഷ് (പൂർണ്ണ പ്രൊഫഷണൽ പ്രാവീണ്യം)
-    - ഹിന്ദി (പൂർണ്ണ പ്രൊഫഷണൽ പ്രാവീണ്യം)
-    - തമിഴ് (പൂർണ്ണ പ്രൊഫഷണൽ പ്രാവീണ്യം)
-    - ജർമ്മൻ (പ്രാഥമിക വൈദഗ്ദ്ധ്യം)
+    Title: ഭാഷകൾ
+    Icon: fas fa-language
+    Items:
+        - മലയാളം (നേറ്റീവ്)
+        - ഇംഗ്ലീഷ് (പൂർണ്ണ പ്രൊഫഷണൽ പ്രാവീണ്യം)
+        - ഹിന്ദി (പൂർണ്ണ പ്രൊഫഷണൽ പ്രാവീണ്യം)
+        - തമിഴ് (പൂർണ്ണ പ്രൊഫഷണൽ പ്രാവീണ്യം)
+        - ജർമ്മൻ (പ്രാഥമിക വൈദഗ്ദ്ധ്യം)
 
 # Organizations:
 #   Title: Organizations
@@ -189,42 +242,42 @@ Languages:
 #     - Dog school B
 
 Skills:
-  Title: കഴിവുക
-  Icon: fas fa-sliders-h
-  Items:
-    - Tried & Experienced- Web Dev, Networking & Security, Data Science, IoT, ML & AI
-    - Database- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
-    - Languages- Python, JS, Go, Dart & PHP
-    - Scripting- Bash, Powershell
-    - Framework- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
-    - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
-    - Services- IBM Watson, AWS, Azure & Dynamics 365
-    - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
-    - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
+    Title: കഴിവുക
+    Icon: fas fa-sliders-h
+    Items:
+        - Tried & Experienced- Web Dev, Networking & Security, Data Science, IoT, ML & AI
+        - Database- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
+        - Languages- Python, JS, Go, Dart & PHP
+        - Scripting- Bash, Powershell
+        - Framework- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
+        - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
+        - Services- IBM Watson, AWS, Azure & Dynamics 365
+        - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
+        - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
 
 Interests:
-  Title: താൽപ്പര്യങ്ങൾ
-  Icon: fas fa-chess
-  Items:
-    - ഫോട്ടോഗ്രാഫി
-    - ഫുട്ബോൾ
-    - സിനിമകൾ
-    - ഭക്ഷണതല്പരൻ
-    - സംഗീതം
+    Title: താൽപ്പര്യങ്ങൾ
+    Icon: fas fa-chess
+    Items:
+        - ഫോട്ടോഗ്രാഫി
+        - ഫുട്ബോൾ
+        - സിനിമകൾ
+        - ഭക്ഷണതല്പരൻ
+        - സംഗീതം
 
 Contacts2:
-  Title: സന്വര്ക്കം
-  Icon: fas fa-address-card
-  Contacts:
-    - Icon: fas fa-user
-      Name: പേര്
-      Value: വിഷ്ണു രവീന്ദ്രനാഥൻ
-    - Icon: fas fa-map-marker-alt
-      Name: സ്ഥാപിക്കല്
-      Value: ജർമ്മനി
-    # - Icon: fas fa-mobile-alt
-    #   Name: Phone
-    #   Value: 
-    - Icon: fas fa-envelope
-      Name: ഇമെയിൽ
-      Value: s274ciaky@mozmail.com
+    Title: സന്വര്ക്കം
+    Icon: fas fa-address-card
+    Contacts:
+        - Icon: fas fa-user
+          Name: പേര്
+          Value: വിഷ്ണു രവീന്ദ്രനാഥൻ
+        - Icon: fas fa-map-marker-alt
+          Name: സ്ഥാപിക്കല്
+          Value: ജർമ്മനി
+        # - Icon: fas fa-mobile-alt
+        #   Name: Phone
+        #   Value:
+        - Icon: fas fa-envelope
+          Name: ഇമെയിൽ
+          Value: s274ciaky@mozmail.com

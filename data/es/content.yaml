@@ -3,7 +3,7 @@ PersonalData:
     Icon: fas fa-user
     Suffix: 'R'
     Name: Vishnu
-    CurrentWorkplace: Propietario del producto y experto en temas
+    CurrentWorkplace: Líder de Equipo de Gestión de Productos en Oldendorff Carriers GmbH
     Contacts:
         - Icon: fas fa-user
           Name: Nombre
@@ -19,7 +19,7 @@ PersonalData:
           Value: s274ciaky@mozmail.com
         - Icon: fas fa-globe
           Name: Sitio web
-          Value: https://captv89.github.io
+          Value: https://profile.captv.ovh
         # - Icon: far fa-calendar-alt
         #   Name: Date of birth
         #   Value: 01.01.1111
@@ -30,11 +30,12 @@ BriefProfile:
     Sections:
         - Name: Fortalezas
           Items:
-              - Vela y navegación
-              - Resolución de problemas
-              - Pensamiento computacional
-              - Jugador de equipo
-              - Impulsado
+              - Visión Estratégica
+              - Liderazgo Transversal
+              - Resolución Analítica de Problemas
+              - Experiencia en el Dominio
+              - Adaptabilidad
+              - Transformación Digital
         - Name: Habilidades
           Items:
               - Solución EAT (ERP) Propietario del producto para la industria marítima
@@ -58,11 +59,32 @@ Experience:
     Title: Experiencia
     Icon: fas fa-briefcase
     Sections:
+        - Name: Líder de Equipo de Gestión de Productos - Flota
+          Employer: Oldendorff Carriers
+          Website: https://www.oldendorff.com/
+          StartDate: 11/2024
+          EndDate: Hoy
+          Details:
+              - Lidera la función de Gestión de Productos de Flota, definiendo la visión y estrategia del producto para apoyar las necesidades de la organización de gestión de flota
+              - Impulsa el viaje de digitalización de departamentos críticos de gestión de flota, enfocándose en aprovechar la tecnología para mejorar la eficiencia operativa
+              - Gestiona iniciativas complejas de productos orientadas a optimizar procesos departamentales y reducir duplicación de esfuerzos
+              - Trabaja de manera transversal con stakeholders clave incluyendo TI de buques, operaciones de TI, nuevas construcciones, finanzas y varios departamentos de gestión de flota
+              - Actúa como enlace central y experto en la materia (SME), traduciendo conocimientos profundos de operaciones de flota en hojas de ruta de productos
+              - Responsable de la gestión del ciclo de vida completo del portafolio de software enfocado en flota
+          Skills:
+              [
+                  'Gestión de productos',
+                  'Operaciones de flota',
+                  'Transformación digital',
+                  'Liderazgo transversal',
+                  'Planificación estratégica',
+                  'Gestión de stakeholders',
+              ]
         - Name: Gerente de producto
           Employer: DNV
           Website: https://dnv.com
           StartDate: 12/2021
-          EndDate: Hoy
+          EndDate: 10/2024
           Details:
               - Gerente de producto para el producto Navigator
               - PYME en aplicaciones comerciales marinas
@@ -254,4 +276,4 @@ Contacts2:
           Value: +91-9994037989
         - Icon: fas fa-envelope
           Name: Correo electrónico
-          Value: https://captv89.github.io/contact.html
+          Value: https://profile.captv.ovh/contact.html

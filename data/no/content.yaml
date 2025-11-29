@@ -3,7 +3,7 @@ PersonalData:
     Icon: fas fa-user
     Suffix: 'R'
     Name: Vishnu
-    CurrentWorkplace: Produkt eier og emne ekspert
+    CurrentWorkplace: Produktledelse Teamleder hos Oldendorff Carriers GmbH
     Contacts:
         - Icon: fas fa-user
           Name: Navn
@@ -19,7 +19,7 @@ PersonalData:
           Value: s274ciaky@mozmail.com
         - Icon: fas fa-globe
           Name: Nettside
-          Value: https://captv89.github.io
+          Value: https://profile.captv.ovh
         # - Icon: far fa-calendar-alt
         #   Name: Date of birth
         #   Value: 01.01.1111
@@ -30,12 +30,13 @@ BriefProfile:
     Sections:
         - Name: Styrker
           Items:
-              - Seiling og navigasjon
-              - Problemløsning
-              - Computational Thinking.
-              - Lagspiller
-              - Drevet
-        - Name: ferdigheter
+              - Strategisk visjon
+              - Tverrfunksjonell ledelse
+              - Analytisk problemløsning
+              - Domeneekspertise
+              - Tilpasningsevne
+              - Digital transformasjon
+        - Name: Ferdigheter
           Items:
               - EAM (ERP) Løsning Produkt eier for maritim industri
               - SME i marine forretningsapplikasjoner
@@ -58,11 +59,32 @@ Experience:
     Title: Erfaring
     Icon: fas fa-briefcase
     Sections:
+        - Name: Produktledelse Teamleder - Flåte
+          Employer: Oldendorff Carriers
+          Website: https://www.oldendorff.com/
+          StartDate: 11/2024
+          EndDate: I dag
+          Details:
+              - Leder flåteproduktledelsesfunksjonen og definerer den overordnede produktvisjonen og -strategien for å støtte flåtestyringorganisasjonen
+              - Driver digitaliseringsreisen for kritiske flåtestyringsavdelinger, med fokus på å utnytte teknologi for å forbedre operasjonell effektivitet
+              - Håndterer komplekse produktinitiativer rettet mot å optimalisere avdelingsprosesser og redusere duplisering av innsats
+              - Arbeider tverrfunksjonelt med nøkkelinteressenter inkludert skips-IT, IT-drift, nybygg, finans og diverse flåtestyringsavdelinger
+              - Fungerer som sentral kontaktperson og fagekspert (SME), oversetter dybdekunnskap om flåtedrift til handlingsrettede produktveikart
+              - Ansvarlig for ende-til-ende livssyklusstyring av den flåtefokuserte programvareporteføljen
+          Skills:
+              [
+                  'Produktstyring',
+                  'Flåtedrift',
+                  'Digital Transformation',
+                  'Tverrfunksjonell ledelse',
+                  'Strategisk planlegging',
+                  'Interessentstyring',
+              ]
         - Name: Produktsjef
           Employer: DNV
           Website: https://dnv.com
           StartDate: 12/2021
-          EndDate: I dag
+          EndDate: 10/2024
           Details:
               - Produktsjef for Navigator -produktet
               - SME i marine forretningsapplikasjoner
@@ -254,4 +276,4 @@ Contacts2:
           Value: +91-9994037989
         - Icon: fas fa-envelope
           Name: E-post
-          Value: https://captv89.github.io/contact.html
+          Value: https://profile.captv.ovh/contact.html

@@ -1,148 +1,201 @@
 PersonalData:
-  Title: Données personnelles
-  Icon: fas fa-user
-  Suffix: "R"
-  Name: Vishnu
-  CurrentWorkplace: Chef de produit
-  Contacts:
-    - Icon: fas fa-user
-      Name: Nom
-      Value: Vishnu R
-    - Icon: fas fa-map-marker-alt
-      Name: Emplacement
-      Value: Allemagne
-    # - Icon: fas fa-mobile-alt
-    #   Name: Phone
-    #   Value: +12 34567 89000
-    - Icon: fas fa-envelope
-      Name: E-mail
-      Value: s274ciaky@mozmail.com
-    - Icon: fas fa-globe
-      Name: Site Internet
-      Value: https://captv89.github.io
-    # - Icon: far fa-calendar-alt
-    #   Name: Date of birth
-    #   Value: 01.01.1111
+    Title: Données personnelles
+    Icon: fas fa-user
+    Suffix: 'R'
+    Name: Vishnu
+    CurrentWorkplace: Chef d'équipe Gestion de Produits chez Oldendorff Carriers GmbH
+    Contacts:
+        - Icon: fas fa-user
+          Name: Nom
+          Value: Vishnu R
+        - Icon: fas fa-map-marker-alt
+          Name: Emplacement
+          Value: Allemagne
+        # - Icon: fas fa-mobile-alt
+        #   Name: Phone
+        #   Value: +12 34567 89000
+        - Icon: fas fa-envelope
+          Name: E-mail
+          Value: s274ciaky@mozmail.com
+        - Icon: fas fa-globe
+          Name: Site Internet
+          Value: https://profile.captv.ovh
+        # - Icon: far fa-calendar-alt
+        #   Name: Date of birth
+        #   Value: 01.01.1111
 
 BriefProfile:
-  Title: Profil bref
-  Icon: fas fa-th-list
-  Sections:
-    - Name: Forces
-      Items:
-        - Voile et navigation
-        - Résolution de problème
-        - Pensée informatique
-        - Joueur d'équipe
-        - conduit
-    - Name: Compétences
-      Items:
-        - Propriétaire du produit de la solution EAM (ERP) pour l'industrie maritime
-        - PME dans les applications commerciales marines
-        - Connaissances fonctionnelles et techniques dans Dynamics 365 Business Central
-        - Gestionnaire de projet pour la mise en œuvre du changement dans la flotte
-        - Coordinateur DevOps & Automation
-        - Consultant d'analyse des données et de migration des données
-        - Présentation du client
-        - La gestion du cycle de vie du produit
-        - Documentation technique
-    - Name: Certifications
-      Items:
-        - Apprentissage automatique (Université de Stanford)
-        - Hacker éthique certifié (CEH)
-        - AWS IoT Maintenance prédictive
-        - Fondations IBM AI pour les affaires
-        - Analyste de la Business Intelligence
+    Title: Profil bref
+    Icon: fas fa-th-list
+    Sections:
+        - Name: Forces
+          Items:
+              - Vision Stratégique
+              - Leadership Transversal
+              - Résolution Analytique de Problèmes
+              - Expertise du Domaine
+              - Adaptabilité
+              - Transformation Numérique
+        - Name: Compétences
+          Items:
+              - Propriétaire du produit de la solution EAM (ERP) pour l'industrie maritime
+              - PME dans les applications commerciales marines
+              - Connaissances fonctionnelles et techniques dans Dynamics 365 Business Central
+              - Gestionnaire de projet pour la mise en œuvre du changement dans la flotte
+              - Coordinateur DevOps & Automation
+              - Consultant d'analyse des données et de migration des données
+              - Présentation du client
+              - La gestion du cycle de vie du produit
+              - Documentation technique
+        - Name: Certifications
+          Items:
+              - Apprentissage automatique (Université de Stanford)
+              - Hacker éthique certifié (CEH)
+              - AWS IoT Maintenance prédictive
+              - Fondations IBM AI pour les affaires
+              - Analyste de la Business Intelligence
 
 Experience:
-  Title: Vivre
-  Icon: fas fa-briefcase
-  Sections:
-    - Name: Chef de produit
-      Employer: DNV
-      Website: https://dnv.com
-      StartDate: 12/2021
-      EndDate: Aujourd'hui
-      Details:
-        - Chef de produit pour le produit Navigator
-        - PME dans les applications commerciales marines
-        - Connaissances fonctionnelles et techniques dans les langues et cadres opensource
-        - La gestion du cycle de vie du produit
-      Skills: ["Gestion des produits", "transformation numérique", "vision du produit", "étude de marché", "analyste", "expert du domaine"]
-    - Name: Propriétaire du produit
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2021
-      EndDate: 11/2021
-      Details:
-        - Propriétaire du produit de la solution EAM (ERP) pour l'industrie maritime
-        - PME dans les applications commerciales marines
-        - Connaissances fonctionnelles et techniques dans Dynamics 365 Business Central
-        - La gestion du cycle de vie du produit
-      Skills: ["Gestion des produits", "Résolution des conflits", "courtier de connaissances", "développeur", "analyste", "Storyteller"]
-    - Name: Analyste d'affaires + SME
-      Employer: Alpha Ori Technologies
-      Website: https://alphaori.sg
-      StartDate: 03/2020
-      EndDate: 03/2021
-      Details:
-        - Gestionnaire de projet pour la mise en œuvre du changement dans la flotte
-        - Consultant DevOps & Automation
-        - Consultant d'analyse des données et de migration des données
-        - Présentation du client
-        - Documentation technique
-      Skills: ["Communication", "Gathering", "Delegat Objectifs", "Gestion des parties prenantes", "Gestion du temps", "documentant"]
-    - Name: Agent de navigation
-      Employer: Marine marchande
-      Website: https://en.wikipedia.org/wiki/Merchant_navy
-      StartDate: 01/2010
-      EndDate: 01/2020
-      Details:
-        - Détenir des certificats professionnels dans
-        - 1. Fighting Fight
-        - 2. premiers soins d'urgence et soins médicaux
-        - 3. Techniques de survie personnelles
-        - 4. Regardez le maintien et la navigation
-        - 5. Communication radio GMDSS
-        - a navigué sur des transporteurs en vrac et des porte-conteneurs
-        - Solides connaissances sur la maintenance et la gestion des navires
-        - compréhension claire des opérations des navires
-      Skills: ["Navigation", "manoeuving", "cargo Management", "Ship Management", "matemarteg"]
+    Title: Vivre
+    Icon: fas fa-briefcase
+    Sections:
+        - Name: Chef d'équipe Gestion de Produits - Flotte
+          Employer: Oldendorff Carriers
+          Website: https://www.oldendorff.com/
+          StartDate: 11/2024
+          EndDate: Aujourd'hui
+          Details:
+              - Dirige la fonction de gestion des produits de la flotte, définissant la vision et la stratégie globales du produit pour soutenir l'organisation de gestion de flotte
+              - Pilote le parcours de digitalisation des départements critiques de gestion de flotte, en se concentrant sur l'exploitation de la technologie pour améliorer l'efficacité opérationnelle
+              - Gère des initiatives produits complexes visant à optimiser les processus départementaux et à réduire la duplication des efforts
+              - Travaille de manière transversale avec les parties prenantes clés, y compris l'informatique des navires, les opérations IT, les nouvelles constructions et les finances
+              - Agit comme liaison centrale et expert en la matière (SME), traduisant une connaissance approfondie des opérations de flotte en feuilles de route produit
+              - Responsable de la gestion du cycle de vie complet du portefeuille logiciel axé sur la flotte
+          Skills:
+              [
+                  'Gestion des produits',
+                  'Opérations de flotte',
+                  'Transformation numérique',
+                  'Leadership transversal',
+                  'Planification stratégique',
+                  'Gestion des parties prenantes',
+              ]
+        - Name: Chef de produit
+          Employer: DNV
+          Website: https://dnv.com
+          StartDate: 12/2021
+          EndDate: 10/2024
+          Details:
+              - Chef de produit pour le produit Navigator
+              - PME dans les applications commerciales marines
+              - Connaissances fonctionnelles et techniques dans les langues et cadres opensource
+              - La gestion du cycle de vie du produit
+          Skills:
+              [
+                  'Gestion des produits',
+                  'transformation numérique',
+                  'vision du produit',
+                  'étude de marché',
+                  'analyste',
+                  'expert du domaine',
+              ]
+        - Name: Propriétaire du produit
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2021
+          EndDate: 11/2021
+          Details:
+              - Propriétaire du produit de la solution EAM (ERP) pour l'industrie maritime
+              - PME dans les applications commerciales marines
+              - Connaissances fonctionnelles et techniques dans Dynamics 365 Business Central
+              - La gestion du cycle de vie du produit
+          Skills:
+              [
+                  'Gestion des produits',
+                  'Résolution des conflits',
+                  'courtier de connaissances',
+                  'développeur',
+                  'analyste',
+                  'Storyteller',
+              ]
+        - Name: Analyste d'affaires + SME
+          Employer: Alpha Ori Technologies
+          Website: https://alphaori.sg
+          StartDate: 03/2020
+          EndDate: 03/2021
+          Details:
+              - Gestionnaire de projet pour la mise en œuvre du changement dans la flotte
+              - Consultant DevOps & Automation
+              - Consultant d'analyse des données et de migration des données
+              - Présentation du client
+              - Documentation technique
+          Skills:
+              [
+                  'Communication',
+                  'Gathering',
+                  'Delegat Objectifs',
+                  'Gestion des parties prenantes',
+                  'Gestion du temps',
+                  'documentant',
+              ]
+        - Name: Agent de navigation
+          Employer: Marine marchande
+          Website: https://en.wikipedia.org/wiki/Merchant_navy
+          StartDate: 01/2010
+          EndDate: 01/2020
+          Details:
+              - Détenir des certificats professionnels dans
+              - 1. Fighting Fight
+              - 2. premiers soins d'urgence et soins médicaux
+              - 3. Techniques de survie personnelles
+              - 4. Regardez le maintien et la navigation
+              - 5. Communication radio GMDSS
+              - a navigué sur des transporteurs en vrac et des porte-conteneurs
+              - Solides connaissances sur la maintenance et la gestion des navires
+              - compréhension claire des opérations des navires
+          Skills:
+              [
+                  'Navigation',
+                  'manoeuving',
+                  'cargo Management',
+                  'Ship Management',
+                  'matemarteg',
+              ]
 
 AcademicEducation:
-  Title: Éducation académique
-  Icon: fas fa-university
-  Sections:
-    - Name: Science nautique
-      Organisation: AMET University
-      Website: https://www.example.com
-      StartDate: 2007
-      EndDate: 2010
-      Qualification: B.Sc Science nautique
-      Score: CGPA 7.96 
+    Title: Éducation académique
+    Icon: fas fa-university
+    Sections:
+        - Name: Science nautique
+          Organisation: AMET University
+          Website: https://www.example.com
+          StartDate: 2007
+          EndDate: 2010
+          Qualification: B.Sc Science nautique
+          Score: CGPA 7.96
 
 ProfessionalTraining:
-  Title: Formation professionnelle
-  Icon: fas fa-road
-  Sections:
-    - Name: Certifications post-mer
-      Organisation: Université maritime indienne
-      Website: https://www.imu.edu.in/
-      StartDate: 2015
-      EndDate: 2015
-      Qualification: Chief Mates FG
+    Title: Formation professionnelle
+    Icon: fas fa-road
+    Sections:
+        - Name: Certifications post-mer
+          Organisation: Université maritime indienne
+          Website: https://www.imu.edu.in/
+          StartDate: 2015
+          EndDate: 2015
+          Qualification: Chief Mates FG
 
 SchoolEducation:
-  Title: Éducation scolaire
-  Icon: fas fa-school
-  Sections:
-    - Name: Lycée (12th)
-      Organisation: Kendriya Vidyalaya
-      Website: https://kvsangathan.nic.in/
-      StartDate: 2006
-      EndDate: 2007
-      Qualification: Avec la physique, la chimie, les mathématiques et l'informatique
-      Score: Totale 84%
+    Title: Éducation scolaire
+    Icon: fas fa-school
+    Sections:
+        - Name: Lycée (12th)
+          Organisation: Kendriya Vidyalaya
+          Website: https://kvsangathan.nic.in/
+          StartDate: 2006
+          EndDate: 2007
+          Qualification: Avec la physique, la chimie, les mathématiques et l'informatique
+          Score: Totale 84%
 
 # FurtherEducation:
 #   Title: Further Education
@@ -156,30 +209,30 @@ SchoolEducation:
 #       Qualification: PersonalTrainer A-License
 
 Diplomas:
-  Title: certifications
-  Icon: fas fa-certificate
-  Items:
-    - 2022 - Voyage de sécurité - Ceinture verte
-    - 2022 - Voyage de sécurité - Ceinture jaune
-    - 2022 - Voyage de sécurité - Ceinture blanche
-    - 2021 - Université de Stanford - Apprentissage automatique
-    - 2020 - Coursera - Git & Github
-    - 2020 - AWS - AWS IoT, maintenance prédictive
-    - 2020 - IBM - L'échelle AI, un cadre de déploiement de l'IA dans votre entreprise
-    - 2020 - IBM - Introduction à la science des données
-    - 2020 - IBM - Introduction à l'IA
-    - 2020 - IBM - fondations de l'IA pour les affaires
-    - 2021 - UDEMY - Analyste de la Business Intelligence
+    Title: certifications
+    Icon: fas fa-certificate
+    Items:
+        - 2022 - Voyage de sécurité - Ceinture verte
+        - 2022 - Voyage de sécurité - Ceinture jaune
+        - 2022 - Voyage de sécurité - Ceinture blanche
+        - 2021 - Université de Stanford - Apprentissage automatique
+        - 2020 - Coursera - Git & Github
+        - 2020 - AWS - AWS IoT, maintenance prédictive
+        - 2020 - IBM - L'échelle AI, un cadre de déploiement de l'IA dans votre entreprise
+        - 2020 - IBM - Introduction à la science des données
+        - 2020 - IBM - Introduction à l'IA
+        - 2020 - IBM - fondations de l'IA pour les affaires
+        - 2021 - UDEMY - Analyste de la Business Intelligence
 
 Languages:
-  Title: Langues
-  Icon: fas fa-language
-  Items:
-    - Malayalam (natif)
-    - Anglais (compétence professionnelle complète)
-    - Hindi (compétence professionnelle complète)
-    - Tamoul (compétence professionnelle complète)
-    - Deutsche (compétence élémentaire)
+    Title: Langues
+    Icon: fas fa-language
+    Items:
+        - Malayalam (natif)
+        - Anglais (compétence professionnelle complète)
+        - Hindi (compétence professionnelle complète)
+        - Tamoul (compétence professionnelle complète)
+        - Deutsche (compétence élémentaire)
 
 # Organizations:
 #   Title: Organizations
@@ -189,42 +242,42 @@ Languages:
 #     - Dog school B
 
 Skills:
-  Title: Compétences
-  Icon: fas fa-sliders-h
-  Items:
-    - Éprouvé- Web Dev, Networking & Security, Data Science, IoT, ML & AI
-    - Base de données- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
-    - Langues- Python, JS, Go, Dart & PHP
-    - Script- Bash, Powershell
-    - Cadre- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
-    - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
-    - Prestations de service- IBM Watson, AWS, Azure & Dynamics 365
-    - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
-    - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
+    Title: Compétences
+    Icon: fas fa-sliders-h
+    Items:
+        - Éprouvé- Web Dev, Networking & Security, Data Science, IoT, ML & AI
+        - Base de données- MSSQL, MySQL, SQLite, PostgreSQL & MongoDB
+        - Langues- Python, JS, Go, Dart & PHP
+        - Script- Bash, Powershell
+        - Cadre- Flutter, VueJS, Colly, Scrappy, Gin, Hugo
+        - DevOps- Jenkins, Azure DevOps, TravisCI, GoCD
+        - Prestations de service- IBM Watson, AWS, Azure & Dynamics 365
+        - ML- Azure ML Studio, Jupiter Notebook, Tensorflow, Keras
+        - OS- CentOS, Raspbian, Mac, Ubuntu, Windows, Parrot & Kali
 
 Interests:
-  Title: Intérêts
-  Icon: fas fa-chess
-  Items:
-    - La photographie
-    - Football
-    - Films
-    - Fin gourmet
-    - Musique
+    Title: Intérêts
+    Icon: fas fa-chess
+    Items:
+        - La photographie
+        - Football
+        - Films
+        - Fin gourmet
+        - Musique
 
 Contacts2:
-  Title: Contacter
-  Icon: fas fa-address-card
-  Contacts:
-    - Icon: fas fa-user
-      Name: Nom
-      Value: Vishnu Ravendranathan
-    - Icon: fas fa-map-marker-alt
-      Name: Emplacement
-      Value: Allemagne
-    # - Icon: fas fa-mobile-alt
-    #   Name: Phone
-    #   Value: 
-    - Icon: fas fa-envelope
-      Name: E-mail
-      Value: s274ciaky@mozmail.com
+    Title: Contacter
+    Icon: fas fa-address-card
+    Contacts:
+        - Icon: fas fa-user
+          Name: Nom
+          Value: Vishnu Ravendranathan
+        - Icon: fas fa-map-marker-alt
+          Name: Emplacement
+          Value: Allemagne
+        # - Icon: fas fa-mobile-alt
+        #   Name: Phone
+        #   Value:
+        - Icon: fas fa-envelope
+          Name: E-mail
+          Value: s274ciaky@mozmail.com
